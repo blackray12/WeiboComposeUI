@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "781EB721-1EEF-4EF3-94F3-B4ED11BBE242",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF27E68A-11A4-44ED-B704-62C44FD78506",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E315C87-5874-474C-8C94-CABDDB059D85",
+    "height": 64,
+    "width": 64,
+    "x": 28,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F28FD07-7964-4DB9-BAC7-592F50D99AC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "665E53A6-57E6-4501-8EDD-F44E6DA2F3D8"
+    }
+  ],
+  "name": "WeiboCamera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C7ACEA12-4DE2-4084-934C-3C5A3825B6E3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "3719F3A5-3F6B-4B60-B590-4044031BB6BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

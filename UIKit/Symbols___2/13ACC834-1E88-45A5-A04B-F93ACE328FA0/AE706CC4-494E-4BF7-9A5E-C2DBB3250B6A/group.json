@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AE706CC4-494E-4BF7-9A5E-C2DBB3250B6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "172CBB3F-0DDC-40F3-BF4B-39929DBA2FE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53418457-A6AF-4BA2-9040-4E7CCDF06C47",
+    "height": 30,
+    "width": 32,
+    "x": 10,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F81DAB34-5F43-4103-9C8D-C55E959BEE2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AAB3007-CF2B-413E-AEE0-AD7C06877A4B"
+    }
+  ],
+  "name": "Navigationbar / Back",
+  "nameIsFixed": true,
+  "resizingConstraint": 33,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4060FC7A-F5F0-4403-8DB0-F1B37E66633D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "ACA3BC74-371F-4A6F-9C22-7F3B06D8F44E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

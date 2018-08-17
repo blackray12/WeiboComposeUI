@@ -1,10 +1,9 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "DC69A0E7-B88F-4E65-AA60-9E367BA59178",
+  "do_objectID": "B986E07B-DD0F-4C1E-9AEB-DAEBF638B3A2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EED724F2-B94A-4A16-9ED0-135CA41A90BC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,12 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "5333A472-EC73-4B58-BDFE-0A4433816785",
-    "height": 180,
-    "width": 450,
-    "x": 2220,
-    "y": 879
+    "constrainProportions": true,
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,22 +29,22 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CA2ABA5C-4218-4DFB-A921-56F8E4906407"
+      "id": "8019426F-15F7-42DF-A2B5-0BFA1B0EC81C"
     },
     {
-      "class": "group",
-      "id": "425FC6C5-5EA8-43AD-93B5-BBD45B0ED225"
+      "class": "shapeGroup",
+      "id": "279E5B33-004E-427F-9A45-8F3E03156725"
     },
     {
-      "class": "slice",
-      "id": "691EE207-4B5D-4C4D-9D30-6D7283F594BA"
+      "class": "shapeGroup",
+      "id": "08C00291-7A0F-4C8E-B89D-418A3352EC59"
     },
     {
-      "class": "slice",
-      "id": "CDDB5119-8BC4-4163-B271-9AFC3B81A2A3"
+      "class": "shapeGroup",
+      "id": "BD60F188-39C1-42BC-801B-B877E177CF93"
     }
   ],
-  "name": "tabbar_compose_video_neo@3x",
+  "name": "Compose / Entrance / Icon / Reward",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,13 +55,11 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A47F23A6-394C-4131-A720-6C4FBD0E2F18",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 30,
+      "radius": 1.111111111111111,
       "type": 0
     },
-    "do_objectID": "F9B45543-D823-4407-87D9-99C433109D0D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

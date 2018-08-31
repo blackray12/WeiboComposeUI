@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 505,
+  "changeIdentifier": 1492,
   "do_objectID": "0109BD05-30AE-4856-B438-C82A97F9EC24",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": 549
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,6 +53,14 @@
     {
       "class": "shapeGroup",
       "id": "0065CA98-A852-417B-9A32-A7F8A7EAAA7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5B88659-6CD2-4B10-9C94-E4504CFC5CB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F05D58F9-4615-4336-ACD6-D2C41CBAB48C"
     }
   ],
   "name": "Compose / HalfScreenCompose / Icon / FullScreen",
@@ -64,6 +72,14 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.9,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

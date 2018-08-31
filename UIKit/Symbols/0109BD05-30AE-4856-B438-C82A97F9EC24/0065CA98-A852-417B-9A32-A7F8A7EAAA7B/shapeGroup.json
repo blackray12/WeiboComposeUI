@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FCBE57B5-EB60-4556-9C37-73E101723AA8",
-    "height": 16.00246586690694,
-    "width": 16.00302338270641,
-    "x": 0.9984883086467562,
-    "y": 0.9987670665468613
+    "height": 15.84244120823787,
+    "width": 15.84299314887935,
+    "x": 0.9885034255602887,
+    "y": 0.9887793958813927
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,8 +28,8 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 1,
+  "isVisible": false,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -48,6 +48,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.9,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -61,7 +69,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.99
       }
     ],
     "do_objectID": "D7F35929-61DA-425C-86B0-F72EC817BA78",

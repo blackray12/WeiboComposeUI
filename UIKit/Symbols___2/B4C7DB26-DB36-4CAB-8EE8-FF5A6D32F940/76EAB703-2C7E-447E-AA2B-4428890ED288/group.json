@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "76EAB703-2C7E-447E-AA2B-4428890ED288",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95582913-7FE6-4CFD-9970-020EA11AA40D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6B546CA0-7761-486F-A97C-94E734760EBE",
+    "height": 320,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5EFC1D62-5150-405C-AE6F-6B25EEEA8F2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BBCDDC1-CA50-4D09-BDA4-0675764D0E1C"
+    },
+    {
+      "class": "group",
+      "id": "64118663-ACAD-4EA4-A697-870CE80FA25C"
+    },
+    {
+      "class": "group",
+      "id": "8257ADA0-E774-4F8E-89A3-7A486ADC41CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7BAE4AB1-5C64-4879-8995-138A222FF1E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C4647ED-919B-4123-8F96-8076CD0BE45E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC927178-A51F-4ACA-A57D-0A0FF12BC6C7"
+    },
+    {
+      "class": "text",
+      "id": "35EED031-1719-4208-8145-99FA8BAD363B"
+    },
+    {
+      "class": "text",
+      "id": "BB2FD4C3-46B9-4FF1-9941-529CE77DC7FF"
+    }
+  ],
+  "name": "Dialog / OperationGuide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F907235-EA68-4DFD-BFC1-2209333F050E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 320,
+            "enabled": 1,
+            "modelID": "constraint_862b1d9b-f345-4509-a06f-d986d44bbfa9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 270
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8bc7611f-e1c7-459a-b883-2f7c8eba0e14",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "18BA4FD0-4265-41A4-AD8F-408C7F790178"
+    }
+  }
+}

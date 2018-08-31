@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4CF55386-CCB3-4E2A-BE7A-52EE968E2735",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2667E80A-39D5-4D7B-B9F4-1374E3362BA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B76EC4B2-7696-40B0-B2DA-CE60202CD400",
+    "height": 29,
+    "width": 68,
+    "x": 14,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5E2DE949-86AD-4A6A-A567-033F2CBD7DA2"
+    },
+    {
+      "class": "text",
+      "id": "BFDE203F-504E-4FB8-859C-881ADA609FC7"
+    }
+  ],
+  "name": "Retweet",
+  "nameIsFixed": true,
+  "resizingConstraint": 33,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AE297B03-FB3B-45C4-84B6-B3C6B0B7A560",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "FEA5216C-F349-45C9-81DC-5A89277E204D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

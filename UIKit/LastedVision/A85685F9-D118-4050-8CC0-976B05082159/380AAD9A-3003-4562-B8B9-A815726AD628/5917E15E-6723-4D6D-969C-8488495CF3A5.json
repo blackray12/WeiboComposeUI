@@ -31,14 +31,15 @@
         "location": 0
       }
     ],
-    "string": "提问"
+    "string": "悬赏"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44",
+  "do_objectID": "5917E15E-6723-4D6D-969C-8488495CF3A5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "06C971B7-0408-491F-A94A-5646EF2F0395",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,9 +50,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "05450978-FA31-4E04-A65B-5045EDDC95E4",
     "height": 14,
     "width": 28,
-    "x": 114,
+    "x": 15,
     "y": 15
   },
   "glyphBounds": "{{0, 0}, {27, 14}}",
@@ -62,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "提问",
+  "name": "悬赏",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -73,16 +75,19 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "68CA83A9-91FF-40CB-9E6F-C5321195DBC3",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "BFE8D879-B0D4-46DA-8E6D-2518EDF45F2C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E8E68E3E-FBCF-4DBA-A5C3-536D2E2AD11C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

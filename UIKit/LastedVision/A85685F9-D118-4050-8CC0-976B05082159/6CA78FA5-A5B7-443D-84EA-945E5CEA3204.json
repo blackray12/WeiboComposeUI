@@ -9,36 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5019607843,
-            "green": 0.5019607843,
-            "red": 0.5019607843
+            "blue": 0.5764705882,
+            "green": 0.5764705882,
+            "red": 0.5764705882
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "SFUIText-Regular",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "alignment": 1
           }
         },
-        "length": 2,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "提问"
+    "string": "0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44",
+  "do_objectID": "6CA78FA5-A5B7-443D-84EA-945E5CEA3204",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EA37C404-7734-4598-B2AE-AFFD41BE8799",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 28,
-    "x": 114,
-    "y": 15
+    "do_objectID": "D950F1F1-0938-4E7F-B671-89A6305D94B8",
+    "height": 16,
+    "width": 9,
+    "x": 351,
+    "y": 640
   },
-  "glyphBounds": "{{0, 0}, {27, 14}}",
+  "glyphBounds": "{{0, 2}, {8, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "提问",
+  "name": "0",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,36 +73,37 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "60387E25-B78E-4DD0-B6A8-5A175D718CB6",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "F8837D96-9A30-4E43-83B2-7D983620B82F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E7D80156-00DC-45ED-B20A-73258DBCC16F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5019607843,
-          "green": 0.5019607843,
-          "red": 0.5019607843
+          "blue": 0.5764705882,
+          "green": 0.5764705882,
+          "red": 0.5764705882
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "SFUIText-Regular",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "alignment": 1
         }
       },
       "verticalAlignment": 0

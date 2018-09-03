@@ -9,36 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5019607843,
-            "green": 0.5019607843,
-            "red": 0.5019607843
+            "blue": 0.7411764706,
+            "green": 0.7411764706,
+            "red": 0.7411764706
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 14
+              "name": "PingFangSC-Medium",
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
-        "length": 2,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "提问"
+    "string": "请输入问题"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44",
+  "do_objectID": "828CFFF3-26E8-4849-98CE-BB9F7FBFC179",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "544B63E4-8EF2-4225-8635-082B0C5DE565",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 28,
-    "x": 114,
-    "y": 15
+    "do_objectID": "BAE4B2C5-2472-4A13-A13C-30DA8806AF81",
+    "height": 20,
+    "width": 345,
+    "x": 15,
+    "y": 233
   },
-  "glyphBounds": "{{0, 0}, {27, 14}}",
+  "glyphBounds": "{{0, 0}, {100, 20}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "提问",
+  "name": "请输入问题",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -73,41 +75,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "BE491E5D-FE24-4777-9DCF-8291FF10323E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "5EE8DDC7-FD6A-4565-8B43-1FE1787EEB5F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6C1EACFB-5FD5-4CB1-8DCE-DDD8315A45BF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5019607843,
-          "green": 0.5019607843,
-          "red": 0.5019607843
+          "blue": 0.7411764706,
+          "green": 0.7411764706,
+          "red": 0.7411764706
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 14
+            "name": "PingFangSC-Medium",
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

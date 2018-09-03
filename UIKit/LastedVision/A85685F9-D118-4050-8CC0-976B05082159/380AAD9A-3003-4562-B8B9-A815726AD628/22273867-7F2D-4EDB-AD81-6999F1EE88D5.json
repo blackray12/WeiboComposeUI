@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5019607843,
-            "green": 0.5019607843,
-            "red": 0.5019607843
+            "blue": 0.6862745098039216,
+            "green": 0.4901960784313726,
+            "red": 0.3137254901960785
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,23 +22,24 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "maximumLineHeight": 14,
             "minimumLineHeight": 14
           }
         },
-        "length": 2,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "提问"
+    "string": "免费提问 >"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44",
+  "do_objectID": "22273867-7F2D-4EDB-AD81-6999F1EE88D5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "BB1CCB25-8A2F-4CCD-AA8E-E20E5E44351C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "511439DF-2929-40A3-A2E7-46D48B921A10",
     "height": 14,
-    "width": 28,
-    "x": 114,
-    "y": 15
+    "width": 70,
+    "x": 290,
+    "y": 14.5
   },
-  "glyphBounds": "{{0, 0}, {27, 14}}",
+  "glyphBounds": "{{0, 0}, {69, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "提问",
+  "name": "免费提问 >",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,23 +75,26 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "9CA09553-79AD-41E0-931F-F363BB126D80",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "0C5B75D5-051E-4B69-8ACD-56963616DE28",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "90EB53AF-8884-4647-8F38-569ED8E1FDA8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5019607843,
-          "green": 0.5019607843,
-          "red": 0.5019607843
+          "blue": 0.6862745098039216,
+          "green": 0.4901960784313726,
+          "red": 0.3137254901960785
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -100,7 +105,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "maximumLineHeight": 14,
           "minimumLineHeight": 14
         }

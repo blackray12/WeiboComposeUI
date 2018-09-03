@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7411764706,
-            "green": 0.7411764706,
-            "red": 0.7411764706
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "PingFangSC-Medium",
               "size": 17
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 41,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "添加问题描述（选填），你可以设置悬赏金额，分配给你满意的回答，7天无回答自动退款。"
+    "string": "设置悬赏金额"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "337EBC2A-7E8E-4D7F-B683-9767E0CFFF12",
+  "do_objectID": "60175D68-E95C-43F8-A6C6-E9174F9983FD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "229E3512-6553-4042-B34F-D3C445D01C7D",
+    "do_objectID": "723B02A2-0C3F-4BB6-905E-CB5B3B72EB77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3C3BB144-9B9C-4851-9DF6-1A16EFDA479B",
-    "height": 78,
-    "width": 345,
-    "x": 0,
-    "y": 103.5
+    "do_objectID": "968D25C4-95A8-4BF7-A33E-EBDD61491786",
+    "height": 24,
+    "width": 240,
+    "x": 15,
+    "y": 20
   },
-  "glyphBounds": "{{0, 4}, {332, 69}}",
+  "glyphBounds": "{{69, 3}, {102, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "添加问题描述（选填），你可以设置悬赏金额",
+  "name": "设置悬赏金额",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,39 +74,38 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "492E190E-95EC-4D74-95CA-26BD3A7C2587",
+      "do_objectID": "AB986E69-28EA-458C-986A-431CB022E9CC",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
-    "do_objectID": "5C6A31F5-7787-4C38-ACA9-8DBA8126853B",
+    "do_objectID": "CEFC55E5-F1CB-41AD-A5D9-ED26B6E06413",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4B2A5BF1-FC9D-416D-8D0D-A58E480AFAE9",
+      "do_objectID": "675D1FE5-CC26-4962-B310-7173712702EE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7411764706,
-          "green": 0.7411764706,
-          "red": 0.7411764706
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "PingFangSC-Medium",
             "size": 17
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

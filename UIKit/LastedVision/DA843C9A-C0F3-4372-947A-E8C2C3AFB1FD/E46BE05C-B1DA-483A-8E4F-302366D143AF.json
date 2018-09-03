@@ -9,36 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5019607843,
-            "green": 0.5019607843,
-            "red": 0.5019607843
+            "blue": 0.7411764706,
+            "green": 0.7411764706,
+            "red": 0.7411764706
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 17
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
           }
         },
-        "length": 2,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "提问"
+    "string": "添加问题描述（选填），你可以设置悬赏金额，分配给你满意的回答，7天无回答自动退款"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44",
+  "do_objectID": "E46BE05C-B1DA-483A-8E4F-302366D143AF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A3E1969E-A1B7-4603-9696-7662A5FBFC24",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 28,
-    "x": 114,
-    "y": 15
+    "do_objectID": "869EA5A6-0018-49FF-A509-4B89C36C2CAA",
+    "height": 78,
+    "width": 345,
+    "x": 15,
+    "y": 281
   },
-  "glyphBounds": "{{0, 0}, {27, 14}}",
+  "glyphBounds": "{{0, 4}, {332, 69}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "提问",
+  "name": "添加问题描述（选填），你可以设置悬赏金额",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -73,41 +75,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "1EE49BD4-1EBE-435F-8114-89F91FB1EA6E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
+    "do_objectID": "9F43A3E0-037F-4C8A-8F17-B52C34080FC6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "451D7642-82FB-4864-9C3A-2660DA57B573",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5019607843,
-          "green": 0.5019607843,
-          "red": 0.5019607843
+          "blue": 0.7411764706,
+          "green": 0.7411764706,
+          "red": 0.7411764706
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 17
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

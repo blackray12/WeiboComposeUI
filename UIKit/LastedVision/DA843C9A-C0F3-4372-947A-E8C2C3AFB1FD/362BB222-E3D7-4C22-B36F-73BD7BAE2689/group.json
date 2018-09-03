@@ -19,7 +19,7 @@
     "height": 45,
     "width": 375,
     "x": 0,
-    "y": 64.5
+    "y": 64
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -34,10 +34,6 @@
       "id": "6C16972A-A741-4989-BDF1-4480F0637B3C"
     },
     {
-      "class": "shapeGroup",
-      "id": "1787FEAC-84B8-4C2E-ADDC-D2211BA5AAF3"
-    },
-    {
       "class": "text",
       "id": "2E20DD2C-E492-4B5A-AE86-98106A0041B6"
     },
@@ -48,6 +44,10 @@
     {
       "class": "text",
       "id": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AFD7396-24B5-42F3-88C9-DB9D4AB85F5C"
     }
   ],
   "name": "tip",

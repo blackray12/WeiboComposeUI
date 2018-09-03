@@ -1,11 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DCD49E86-453C-41FD-997D-A1392E7EACFE",
+  "do_objectID": "59F8AF45-783E-4E03-BF6A-2DACCCC7C969",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F92D46B-F815-4FA7-90C9-17DC006FB895",
+    "do_objectID": "A5384F61-0852-4E9E-9B2D-1C8FDF080681",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E78950DD-D663-44CA-8062-EE6A0D6D4FB8",
-    "height": 44.5,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "724D07BF-4383-4C00-942B-9AE7BD0798A4",
+    "height": 52,
+    "width": 355,
+    "x": 10,
+    "y": 215
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,26 +33,17 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3FE95C8A-BB96-45F9-9505-CB752F54C857"
+      "id": "A6528DEE-335B-403E-8B41-59B253C274AE"
     }
   ],
-  "name": "bg",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "9F653953-2981-447B-BDE1-91DCF151F696",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 5,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -66,10 +57,10 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 0.5
+        "thickness": 1
       }
     ],
-    "do_objectID": "1C670806-3335-448F-AEF1-D98011BD0AD1",
+    "do_objectID": "EAB7579D-E169-4512-B306-8E33D94A98DD",
     "endMarkerType": 0,
     "fills": [
       {
@@ -77,12 +68,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
-          "green": 0.9647058823529412,
-          "red": 0.9647058823529412
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -95,7 +86,7 @@
         "blurRadius": 0,
         "color": {
           "_class": "color",
-          "alpha": 0.15,
+          "alpha": 0.1,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -105,7 +96,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": -0.5,
         "spread": 0

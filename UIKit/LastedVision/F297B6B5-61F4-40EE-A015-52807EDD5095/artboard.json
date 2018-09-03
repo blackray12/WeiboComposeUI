@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 523,
-  "do_objectID": "4EC3B86A-D83B-4E2C-BAA4-9004F2DE7FC1",
+  "do_objectID": "F297B6B5-61F4-40EE-A015-52807EDD5095",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
+    "height": 667,
     "width": 375,
-    "x": 5767,
-    "y": 1592
+    "x": 2350,
+    "y": 44
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +35,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,15 +42,34 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "98B5C60F-86F4-487E-8AE7-C7736F8F48B1"
+    },
+    {
       "class": "shapeGroup",
-      "id": "6B9FCD66-1D04-4DBB-B4CE-1EBE57B1559A"
+      "id": "21BA6CBB-435B-4AD8-A496-EC587EFCD015"
+    },
+    {
+      "class": "group",
+      "id": "512F57E5-0677-41C4-BB66-E8090AD1D3B5"
+    },
+    {
+      "class": "group",
+      "id": "4AEF2BAA-9BF9-4EE2-A13F-EE8C1EFE25AC"
     }
   ],
-  "name": "Compose / HalfScreenCompose / Background",
-  "nameIsFixed": true,
+  "name": "iPhone 8 Copy 3",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,7 +82,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4D91DCA6-1D66-4FAE-A6C7-6458208B6103",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

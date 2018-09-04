@@ -12,6 +12,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,7 +36,7 @@
     "y": 44
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +62,8 @@
       "id": "153DE743-19BC-4FE5-B933-642CDC38D4BC"
     },
     {
-      "class": "group",
-      "id": "D510E9C7-1307-40B5-9C64-39120A0B1938"
+      "class": "bitmap",
+      "id": "EC5458B5-103B-4BBE-8ECB-F7444DE5B3F0"
     },
     {
       "class": "shapeGroup",
@@ -69,8 +78,8 @@
       "id": "24047F79-59DF-44D2-A913-E6B159C4F3B5"
     }
   ],
-  "name": "iPhone 8 Copy 2",
-  "nameIsFixed": false,
+  "name": "有字",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

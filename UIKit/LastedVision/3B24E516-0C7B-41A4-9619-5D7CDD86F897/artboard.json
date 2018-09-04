@@ -12,6 +12,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -27,7 +36,7 @@
     "y": 44
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +62,8 @@
       "id": "1FE10BFC-B26F-4CF0-ACAA-CE8BDC83A3E8"
     },
     {
-      "class": "group",
-      "id": "E7821728-2CAD-4B85-B4CD-87286769DB8B"
+      "class": "bitmap",
+      "id": "F2995CAD-1C35-4C11-98DB-B4A25B79601F"
     },
     {
       "class": "shapeGroup",
@@ -69,8 +78,8 @@
       "id": "387047B9-3638-4F06-825B-C9C107101CFA"
     }
   ],
-  "name": "iPhone 8 Copy 4",
-  "nameIsFixed": false,
+  "name": "趣图",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

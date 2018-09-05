@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 10,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AE2FFC4D-3158-4E53-8558-23F857B91A24",
-    "height": 667,
+    "height": 740,
     "width": 375,
     "x": 0,
     "y": 0
@@ -37,7 +37,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 20,
+      "cornerRadius": 10,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 20,
+      "cornerRadius": 10,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",

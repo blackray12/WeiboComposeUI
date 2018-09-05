@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "457B5018-B842-499D-AE47-A1C139DDFC4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD28BE75-B114-48DF-90CE-BC03C39405A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECDB892F-6225-47AE-8695-BBC6E0DA0677",
+    "height": 77,
+    "width": 108,
+    "x": 0,
+    "y": 0.5
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5BFA7264-1AC7-444B-B920-709FC557B334"
+    },
+    {
+      "class": "text",
+      "id": "DCA90976-8285-41C4-995F-C86ED7FE69F2"
+    },
+    {
+      "class": "text",
+      "id": "15784309-B5E9-45FF-8494-68BB29BA8CD5"
+    },
+    {
+      "class": "text",
+      "id": "8AE27436-CBB8-4283-A7B2-66AD5223FACE"
+    }
+  ],
+  "name": "DateWeather",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4327B983-6366-4C25-AB41-167B9ACF7E58",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "D0497560-DB56-403F-8038-3BC49EDAEF14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

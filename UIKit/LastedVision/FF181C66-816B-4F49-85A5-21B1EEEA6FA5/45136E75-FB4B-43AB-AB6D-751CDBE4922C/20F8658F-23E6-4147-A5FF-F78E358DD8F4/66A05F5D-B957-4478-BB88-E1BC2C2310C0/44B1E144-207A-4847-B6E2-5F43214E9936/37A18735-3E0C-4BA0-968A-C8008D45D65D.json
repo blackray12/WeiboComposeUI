@@ -1,11 +1,10 @@
 {
   "_class": "rectangle",
-  "booleanOperation": -1,
-  "do_objectID": "3FE95C8A-BB96-45F9-9505-CB752F54C857",
+  "booleanOperation": 0,
+  "do_objectID": "37A18735-3E0C-4BA0-968A-C8008D45D65D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "39740B9F-6576-4284-8460-8B066DC3EFA3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,14 +12,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 50,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A440D71D-1FD2-4A48-B8D5-B276BD7F4BA4",
-    "height": 44,
-    "width": 375,
-    "x": 0,
+    "height": 15,
+    "width": 1,
+    "x": 7,
     "y": 0
   },
   "hasConvertedToNewRoundCorners": true,
@@ -31,13 +29,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 50,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +45,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 50,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +55,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 50,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +65,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 50,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",

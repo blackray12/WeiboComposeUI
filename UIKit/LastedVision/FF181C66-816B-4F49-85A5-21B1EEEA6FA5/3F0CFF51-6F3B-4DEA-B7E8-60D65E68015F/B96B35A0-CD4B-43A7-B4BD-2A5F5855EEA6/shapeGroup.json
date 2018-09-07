@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DCD49E86-453C-41FD-997D-A1392E7EACFE",
+  "do_objectID": "B96B35A0-CD4B-43A7-B4BD-2A5F5855EEA6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F92D46B-F815-4FA7-90C9-17DC006FB895",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E78950DD-D663-44CA-8062-EE6A0D6D4FB8",
     "height": 44,
     "width": 375,
     "x": 0,
@@ -33,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3FE95C8A-BB96-45F9-9505-CB752F54C857"
+      "id": "B8D6BDEE-CC10-423B-BFC6-B4B2EDBFB029"
     }
   ],
   "name": "bg",
@@ -47,7 +45,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "9F653953-2981-447B-BDE1-91DCF151F696",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
@@ -69,7 +66,6 @@
         "thickness": 0.5
       }
     ],
-    "do_objectID": "1C670806-3335-448F-AEF1-D98011BD0AD1",
     "endMarkerType": 0,
     "fills": [
       {
@@ -87,28 +83,6 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      }
-    ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 0.15,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": -0.5,
-        "spread": 0
       }
     ],
     "miterLimit": 10,

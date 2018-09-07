@@ -1,7 +1,7 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "67C418CC-AD92-4C8B-9901-301E4EBEA532",
+  "booleanOperation": 0,
+  "do_objectID": "DB6F2F3B-33C6-4489-BCB1-DBFD39FA6C23",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 230,
-    "width": 270,
-    "x": 53,
-    "y": 191
+    "height": 88,
+    "width": 345,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -29,33 +29,25 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "598E4523-BE1D-4426-BBAF-FF4E65AB786E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FB288919-9C65-4C6D-9840-402E9738A04B"
-    },
-    {
-      "class": "text",
-      "id": "7ABC70C8-2DC3-45F3-9AF7-6D1662012E3C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CF3E42E0-FD8C-4ABF-8990-F716C53C59A0"
-    },
-    {
-      "class": "text",
-      "id": "60175D68-E95C-43F8-A6C6-E9174F9983FD"
+      "id": "843E3CDF-3228-4A4E-8C38-6B7D0AA376C3"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "addPic",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

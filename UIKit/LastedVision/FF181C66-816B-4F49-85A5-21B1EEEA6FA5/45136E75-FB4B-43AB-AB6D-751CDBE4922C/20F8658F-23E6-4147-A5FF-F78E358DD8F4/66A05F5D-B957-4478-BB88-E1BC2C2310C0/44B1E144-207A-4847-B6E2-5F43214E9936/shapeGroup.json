@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DCD49E86-453C-41FD-997D-A1392E7EACFE",
+  "do_objectID": "44B1E144-207A-4847-B6E2-5F43214E9936",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F92D46B-F815-4FA7-90C9-17DC006FB895",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E78950DD-D663-44CA-8062-EE6A0D6D4FB8",
-    "height": 44,
-    "width": 375,
+    "height": 15,
+    "width": 15,
     "x": 0,
     "y": 0
   },
@@ -29,15 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "3FE95C8A-BB96-45F9-9505-CB752F54C857"
+      "id": "B380ABEE-61B3-4CD4-9D60-2FC09E28BE5D"
+    },
+    {
+      "class": "rectangle",
+      "id": "37A18735-3E0C-4BA0-968A-C8008D45D65D"
     }
   ],
-  "name": "bg",
-  "nameIsFixed": true,
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,7 +49,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "9F653953-2981-447B-BDE1-91DCF151F696",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
@@ -69,7 +70,6 @@
         "thickness": 0.5
       }
     ],
-    "do_objectID": "1C670806-3335-448F-AEF1-D98011BD0AD1",
     "endMarkerType": 0,
     "fills": [
       {
@@ -77,9 +77,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
-          "green": 0.9647058823529412,
-          "red": 0.9647058823529412
+          "blue": 0.7411764705882353,
+          "green": 0.7411764705882353,
+          "red": 0.7411764705882353
         },
         "fillType": 0,
         "isEnabled": true,
@@ -87,28 +87,6 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
-      }
-    ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 0.15,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": -0.5,
-        "spread": 0
       }
     ],
     "miterLimit": 10,

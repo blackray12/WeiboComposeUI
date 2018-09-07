@@ -1,10 +1,9 @@
 {
   "_class": "group",
   "booleanOperation": 0,
-  "do_objectID": "362BB222-E3D7-4C22-B36F-73BD7BAE2689",
+  "do_objectID": "3F0CFF51-6F3B-4DEA-B7E8-60D65E68015F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "26230769-12DA-4EB8-9D74-7491603992C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,7 +14,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F965599A-D36D-4D93-ABB7-CDC6B937CAD0",
     "height": 44,
     "width": 375,
     "x": 0,
@@ -31,23 +29,23 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "6C16972A-A741-4989-BDF1-4480F0637B3C"
+      "id": "B96B35A0-CD4B-43A7-B4BD-2A5F5855EEA6"
     },
     {
       "class": "text",
-      "id": "2E20DD2C-E492-4B5A-AE86-98106A0041B6"
+      "id": "10FE9FCC-689B-4CA5-A7FA-055522825B16"
     },
     {
       "class": "text",
-      "id": "2D5518D1-9D9C-4804-A051-8CA31707FC9A"
+      "id": "19798A8F-E7F4-467C-9633-B2B1E8B51589"
     },
     {
       "class": "text",
-      "id": "DAAD831D-33BB-4051-B963-1BBF0A0A5C44"
+      "id": "A6DBEE3D-9927-4192-BBC0-AD5F19CEA28E"
     },
     {
-      "class": "symbolInstance",
-      "id": "9AFD7396-24B5-42F3-88C9-DB9D4AB85F5C"
+      "class": "shapeGroup",
+      "id": "0AC3CB6E-2589-4886-99D5-369ADC2556F4"
     }
   ],
   "name": "tip",
@@ -61,13 +59,11 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "F09E4A41-777C-435C-871E-95A0FCEB841E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
-    "do_objectID": "626F3AEB-261C-413D-B221-C3BF62CDD7A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

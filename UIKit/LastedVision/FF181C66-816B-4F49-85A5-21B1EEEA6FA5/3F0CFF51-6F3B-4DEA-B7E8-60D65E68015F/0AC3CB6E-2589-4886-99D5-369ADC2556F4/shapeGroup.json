@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DCD49E86-453C-41FD-997D-A1392E7EACFE",
+  "do_objectID": "0AC3CB6E-2589-4886-99D5-369ADC2556F4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8F92D46B-F815-4FA7-90C9-17DC006FB895",
+    "do_objectID": "2311D9BF-D856-4219-8F22-5D4E71BB6026",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E78950DD-D663-44CA-8062-EE6A0D6D4FB8",
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "B6FCDE76-8A38-484E-86F5-3BC117BB0E90",
+    "height": 27,
+    "width": 27,
+    "x": 38,
+    "y": 9
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,11 +32,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3FE95C8A-BB96-45F9-9505-CB752F54C857"
+      "class": "oval",
+      "id": "C16FAB20-DD77-414E-B705-606DE13BC6B4"
     }
   ],
-  "name": "bg",
+  "name": "user",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,7 +47,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "9F653953-2981-447B-BDE1-91DCF151F696",
+      "do_objectID": "1B7F3A25-D0B6-416D-A3B2-A24EE4ADA85E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
@@ -59,17 +59,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.7925701530612245,
+          "green": 0.7925701530612245,
+          "red": 0.7925701530612245
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 0.5
       }
     ],
-    "do_objectID": "1C670806-3335-448F-AEF1-D98011BD0AD1",
+    "do_objectID": "1254C232-84F8-4CB4-9185-74AEE632EC00",
     "endMarkerType": 0,
     "fills": [
       {
@@ -77,38 +77,21 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
-          "green": 0.9647058823529412,
-          "red": 0.9647058823529412
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/1d1b4863cd494e59a9f19019c71e65e257b6bbb1.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 0.15,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": -0.5,
-        "spread": 0
+        "patternTileScale": 0.1
       }
     ],
     "miterLimit": 10,

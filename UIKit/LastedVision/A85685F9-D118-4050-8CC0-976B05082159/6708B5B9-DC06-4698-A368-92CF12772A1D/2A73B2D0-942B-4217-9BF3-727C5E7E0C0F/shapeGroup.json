@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "60341651-9454-40F9-988F-4E956EE82CD4",
+  "do_objectID": "2A73B2D0-942B-4217-9BF3-727C5E7E0C0F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 21,
+    "width": 24,
+    "x": 242,
+    "y": 106.0001519444308
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,47 +27,59 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A92AEAF4-CC0D-47EB-9C45-13B1218F7E1D"
+      "class": "shapePath",
+      "id": "441B319B-1097-4E3F-95D3-AEC94DACE0DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "0769A49F-EB82-4DD1-8345-6B53DA4B886F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F245EB8A-D5CE-44F6-A666-E734B00D0132"
+    },
+    {
+      "class": "shapePath",
+      "id": "D256D4F7-4269-4E57-BA71-6BCABFC2CB4A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C0F66EE3-B1C9-42E9-A9F2-DC773FD7F22B"
+    },
+    {
+      "class": "shapePath",
+      "id": "75C95F00-CBDB-4357-91F6-4C3A3287A384"
     }
   ],
-  "name": "mask",
-  "nameIsFixed": true,
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.2,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.6862745098039216,
+          "green": 0.4901960784313725,
+          "red": 0.3137254901960784
         },
         "fillType": 0,
         "isEnabled": true,

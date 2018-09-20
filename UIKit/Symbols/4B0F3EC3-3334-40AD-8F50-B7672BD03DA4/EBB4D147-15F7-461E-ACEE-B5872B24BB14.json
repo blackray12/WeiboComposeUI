@@ -1,7 +1,7 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "0985CA91-04A4-485E-B66A-767318BCED2F",
+  "do_objectID": "EBB4D147-15F7-461E-ACEE-B5872B24BB14",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,32 +19,21 @@
     "x": 8,
     "y": 1
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "9FE27538-3B94-47F2-BB8E-A3B7EA6C9CC6"
-    },
-    {
-      "class": "text",
-      "id": "19178D74-52EE-4714-8618-B94C103956F2"
-    },
-    {
-      "class": "group",
-      "id": "CDE5F82B-99F7-429F-90F6-7A45985A5652"
-    }
-  ],
-  "name": "LocationButton",
+  "layerListExpandedType": 0,
+  "name": "QAButton",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,5 +41,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "48228E88-36D6-402A-B8E3-606261F2A221",
+  "verticalSpacing": 0
 }

@@ -1,7 +1,7 @@
 {
-  "_class": "group",
-  "booleanOperation": -1,
-  "do_objectID": "FDC3D9A9-83B0-47B8-B327-27246B623612",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9FE27538-3B94-47F2-BB8E-A3B7EA6C9CC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,37 +14,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 375,
+    "height": 24,
+    "width": 118,
     "x": 0,
-    "y": 319
+    "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "2C279B65-F662-44D8-B661-EE4B43040CCB"
-    },
-    {
-      "class": "group",
-      "id": "0985CA91-04A4-485E-B66A-767318BCED2F"
-    },
-    {
-      "class": "text",
-      "id": "9F6802E8-D186-4A8B-9136-E9D0DAA4675E"
-    }
+  "layerListExpandedType": 1,
+  "name": "LocationBackground",
+  "nameIsFixed": true,
+  "overrideValues": [
   ],
-  "name": "Compose / Additional / Unit",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,5 +41,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "39A29E62-CDEF-46E8-A744-CAE90B4C5703",
+  "verticalSpacing": 0
 }

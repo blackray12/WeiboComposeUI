@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "9FE27538-3B94-47F2-BB8E-A3B7EA6C9CC6",
+  "booleanOperation": -1,
+  "do_objectID": "FB85658D-63F4-4A28-A4A4-3F1B3CD35D7C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5F92006F-6652-473E-BEC0-CB59F16EC04B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,9 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 118,
-    "x": 0,
+    "do_objectID": "6E71108C-C997-42D6-A2AD-0A33F48223DA",
+    "height": 60,
+    "width": 60,
+    "x": 720,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -25,23 +27,33 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "LocationBackground",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "Compose / Additional / Button / Icon / SetTime",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 3,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A83BABC6-A144-4A89-B4F1-2E03BC0B3605",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 30,
+      "type": 0
+    },
+    "do_objectID": "E6651E7D-4344-4C72-8C60-963EB42888FC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "39A29E62-CDEF-46E8-A744-CAE90B4C5703",
+  "symbolID": "119C8F41-83FB-4F1A-B5BC-18E880866483",
   "verticalSpacing": 0
 }

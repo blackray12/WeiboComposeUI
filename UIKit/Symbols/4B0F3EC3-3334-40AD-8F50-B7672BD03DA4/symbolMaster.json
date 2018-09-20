@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "3F4C55D9-8FCA-40C4-BE47-48093B51459B",
+  "changeIdentifier": 152,
+  "do_objectID": "4B0F3EC3-3334-40AD-8F50-B7672BD03DA4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 31,
     "width": 375,
-    "x": 1259,
-    "y": 755
+    "x": 7027,
+    "y": 2871
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -42,31 +44,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F80F3990-6822-4551-9431-B2F569692932"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AA75D90A-2304-4C81-8EB6-6A7A47097DC6"
-    },
-    {
       "class": "shapeGroup",
-      "id": "C1B79A8F-E6B8-419A-A22A-9CAFC7F86A0D"
+      "id": "2C279B65-F662-44D8-B661-EE4B43040CCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBB4D147-15F7-461E-ACEE-B5872B24BB14"
+    },
+    {
+      "class": "text",
+      "id": "9F6802E8-D186-4A8B-9136-E9D0DAA4675E"
     }
   ],
-  "name": "回答编辑器 - 发微博",
+  "name": "Compose / Additional / QA",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -78,6 +73,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "548BF20C-478D-4AF3-B4D0-9E8EB0CB5E10",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

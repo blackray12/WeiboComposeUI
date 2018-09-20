@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "3F4C55D9-8FCA-40C4-BE47-48093B51459B",
+  "changeIdentifier": 125,
+  "do_objectID": "E1851C2E-8F31-4470-9F73-703F9749FD28",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 1259,
-    "y": 755
+    "height": 24,
+    "width": 118,
+    "x": 6967,
+    "y": 2922
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -42,31 +44,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "F80F3990-6822-4551-9431-B2F569692932"
+      "id": "9FE27538-3B94-47F2-BB8E-A3B7EA6C9CC6"
+    },
+    {
+      "class": "text",
+      "id": "19178D74-52EE-4714-8618-B94C103956F2"
     },
     {
       "class": "symbolInstance",
-      "id": "AA75D90A-2304-4C81-8EB6-6A7A47097DC6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C1B79A8F-E6B8-419A-A22A-9CAFC7F86A0D"
+      "id": "3E18EC89-B5B4-440E-A379-6D2A53088E41"
     }
   ],
-  "name": "回答编辑器 - 发微博",
+  "name": "Compose / Additional / Button / QAButton",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -78,6 +73,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "48228E88-36D6-402A-B8E3-606261F2A221",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

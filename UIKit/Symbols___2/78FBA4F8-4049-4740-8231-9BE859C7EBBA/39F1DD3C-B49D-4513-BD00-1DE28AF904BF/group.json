@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "39F1DD3C-B49D-4513-BD00-1DE28AF904BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E34B14DF-8BE7-43D0-81DA-ED4E6718105E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62B38AD7-A5EB-4B59-B37A-A6E6379D2671",
+    "height": 22,
+    "width": 21,
+    "x": 1.5,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "431D3CD8-E049-4226-B04E-A991DBEEBA46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02B1D936-BA6F-4999-8AC8-F8230BCF7529"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4EC10A0-8E94-4A81-AD5C-1DFDE66FD247"
+    }
+  ],
+  "name": "compose_mentionbutton_background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3DC7EB4D-D926-420E-84D6-CFEB45450518",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "2782F95F-D7CD-45B3-A585-5B2D803DD91E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

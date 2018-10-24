@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "27903ADC-892D-412D-8CE7-462A28FE6716",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70ED8350-EC5E-438A-AA34-A410D6A2B86B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3A7C97C9-F959-4AE0-B06F-A9E5782E7DD5",
+    "height": 31,
+    "width": 31,
+    "x": 87,
+    "y": 416
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e37a32067f4088e12cdeffd300fb32d14f6f3dfa.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "屏幕快照 2017-05-05 下午5.01.28",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20CD7AF3-64E0-48BC-A5FC-1FA9BB24F2BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_c3f72a73-1bb6-49bc-85de-d3510128e29f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d6ad6586-23bb-4f39-8dc5-7170209fe711",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

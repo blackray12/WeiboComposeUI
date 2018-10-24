@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EE74B89B-EA5B-44D8-B0FD-4C296C5BF6AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2EEA66B-676C-439F-8909-1EA216D10329",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1B7C3D4-E78C-40B8-89F5-024F845067B2",
+    "height": 31,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D049CA1E-4326-4A6F-857B-DB57F6E12A4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89FFEEC0-9C36-4A10-8D50-71C0AA84D93A"
+    }
+  ],
+  "name": "视频",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B1C78B9F-34F9-43DA-83A0-00BAF396EDDC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "BC4CFDE2-59E5-41FE-B35C-55B0EC602081",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

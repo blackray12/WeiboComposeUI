@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DC8E67DD-998B-4759-AEB8-B2F8E99EEA80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F82485A-E6C4-40F5-B032-B2B65CB39CE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "346A4506-C039-4DA2-9721-AEAFDE7B10CF",
+    "height": 28,
+    "width": 313,
+    "x": 8,
+    "y": 53
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "773558FB-3BE0-4142-8F75-B95A46717F8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACB76683-B491-4D85-A884-89498C69EED7"
+    },
+    {
+      "class": "group",
+      "id": "375CA56C-2734-4BFD-8478-EE686D0C2AD7"
+    }
+  ],
+  "name": "Searchbar / Textfield",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "18040B0F-4DB7-4106-9264-CA6AFDB16C13",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "A5D3A747-0CE9-4BDD-9D4E-3915C65A045C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

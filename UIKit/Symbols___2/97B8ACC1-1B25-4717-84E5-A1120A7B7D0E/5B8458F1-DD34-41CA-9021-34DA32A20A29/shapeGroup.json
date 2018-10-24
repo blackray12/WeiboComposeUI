@@ -1,0 +1,172 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B8458F1-DD34-41CA-9021-34DA32A20A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2931A7D4-8278-4114-8B7B-055B55F10CE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E125CAD8-DA95-42B2-8890-9D039586FC1D",
+    "height": 20,
+    "width": 20,
+    "x": 6,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "505680A8-FA7A-497F-B800-D8B962F1A2C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "58A25FCE-6873-4694-9076-39D185310FDE"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC8783E8-4D72-4B5A-9155-40D3421C0A53"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C12F71F-E05E-4245-9EFD-60E6D562FE32"
+    },
+    {
+      "class": "rectangle",
+      "id": "90225CE0-BD2D-46C8-B2B9-AB7B01638F75"
+    },
+    {
+      "class": "rectangle",
+      "id": "E179ECD1-CF6D-491B-9ABC-C03BB52FE0CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5AEFE6C0-1C18-4986-80B7-57585AEE4CB1"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4111B7A-D9F5-4184-A9C5-5C7364B8D605"
+    },
+    {
+      "class": "rectangle",
+      "id": "439EB61C-CE08-4B75-917D-63323269D258"
+    },
+    {
+      "class": "rectangle",
+      "id": "9099854A-15AC-48BB-B466-0D02E7FEF402"
+    },
+    {
+      "class": "rectangle",
+      "id": "0FDFBDD1-3488-4E68-99FD-63150214502F"
+    },
+    {
+      "class": "rectangle",
+      "id": "A546BC98-D2C6-4895-B2E2-3CB3258F472F"
+    }
+  ],
+  "name": "tableview_loading",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C022F37B-67D8-4F8C-9728-5001AEF9CEB9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0.5
+      }
+    ],
+    "do_objectID": "AEC88BC5-01B8-4EFA-A357-A467C4769FCA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0.5}",
+          "gradientType": 2,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8784313725490196,
+                "green": 0.8784313725490196,
+                "red": 0.8784313725490196
+              },
+              "position": 0.7884006663491296
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.615686274509804,
+                "green": 0.615686274509804,
+                "red": 0.6196078431372549
+              },
+              "position": 0.7787408038458212
+            }
+          ],
+          "to": "{-2.2204460492503131e-16, -0.36602540378443849}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

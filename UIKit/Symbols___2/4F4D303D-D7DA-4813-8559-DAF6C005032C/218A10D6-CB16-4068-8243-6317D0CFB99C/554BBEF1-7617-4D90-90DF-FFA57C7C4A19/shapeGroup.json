@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "554BBEF1-7617-4D90-90DF-FFA57C7C4A19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D61991C-5525-4F39-95F5-BCAFA36ADC04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A763900-430B-4B26-80A0-17E704225E2E",
+    "height": 8.697674418604665,
+    "width": 7.5,
+    "x": 11.0453590383238,
+    "y": 13.30232558139551
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AD749FCB-E806-4377-8482-9813AC9DE1F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC0B8607-A9BB-4CBD-B7CD-E4E1609C3F43"
+    },
+    {
+      "class": "oval",
+      "id": "7D8D5510-3FED-4DCB-BC7B-5524E6A49894"
+    },
+    {
+      "class": "oval",
+      "id": "D823D744-5F44-4106-9F89-4AB19E44F4E8"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "32B88149-A4FB-49DE-8E04-C3DB815F80C9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0.5
+      }
+    ],
+    "do_objectID": "71081B09-3FEF-475C-BB3D-868FC6465554",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

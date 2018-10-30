@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 228,
+  "changeIdentifier": 538,
   "do_objectID": "07A008F3-CABC-40DE-BD3B-C9201FDAF52C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "C5DB4F2E-9805-4715-9EBD-C76C92942E5F",
     "height": 88,
     "width": 375,
-    "x": 3224,
-    "y": 2127
+    "x": 1363,
+    "y": 654
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "3D0FAB24-A5B8-4CFC-99E2-7AFD752F6A14"
+      "class": "symbolInstance",
+      "id": "E002746F-C5B4-4B47-A8D1-4BC399EEA3C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "028D2621-F940-4A04-AFD7-C44843E9318B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75A9855F-59D9-4623-9EC6-8054C322D555"
     }
   ],
   "name": "NavigationBar / Compose / Able / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

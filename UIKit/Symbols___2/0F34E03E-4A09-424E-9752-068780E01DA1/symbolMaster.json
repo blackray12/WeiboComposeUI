@@ -3,13 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "45A1C134-3CCB-4D2C-8B38-BD31C34137E5",
-    "green": 1,
-    "red": 1
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 94,
+  "changeIdentifier": 549,
   "do_objectID": "0F34E03E-4A09-424E-9752-068780E01DA1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +26,10 @@
     "do_objectID": "B6823FE8-C918-4D7A-8F33-2481CC73F4F4",
     "height": 64,
     "width": 375,
-    "x": -1,
-    "y": 1855
+    "x": -426,
+    "y": 1482
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,7 +38,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -48,32 +47,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EFDE949B-E0E8-4F17-AD84-973601E200F3"
-    },
-    {
-      "class": "text",
-      "id": "BCF6630B-EEBA-4109-9F3B-BADF3C1055EB"
-    },
-    {
-      "class": "text",
-      "id": "C8D9202F-F6DB-4305-97EC-2E656F1B9E27"
-    },
-    {
-      "class": "group",
-      "id": "F0850AA1-AEC4-4CFA-9737-6A486A8C2815"
+      "id": "8FFBE4B3-2B80-4618-A482-9F1C5767D8EC"
     },
     {
       "class": "symbolInstance",
       "id": "27D9060F-E5E9-48D4-8D50-0F5F2979F16B"
     }
   ],
-  "name": "NavigationBar /  LeftBack&RightText / Transparent",
+  "name": "NavigationBar /  LeftBack&RightText / Transparent / Normal",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

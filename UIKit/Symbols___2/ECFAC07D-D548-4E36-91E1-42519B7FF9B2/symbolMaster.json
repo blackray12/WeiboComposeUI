@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 650,
+  "changeIdentifier": 1102,
   "do_objectID": "ECFAC07D-D548-4E36-91E1-42519B7FF9B2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "D6776ABB-6E32-4051-A452-6D3F43A48566",
     "height": 64,
     "width": 375,
-    "x": 849,
-    "y": 2270
+    "x": 938,
+    "y": 1482
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C099475F-4108-42ED-B9E9-2872F3BC9383"
+      "class": "symbolInstance",
+      "id": "D4F0BB3C-95FD-435C-9128-A97ACAF4BC69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D04D3EBF-3BD1-4529-BCBB-F40DB3D2AE92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6C56D71-3570-451F-AE38-C1ADDB139015"
     }
   ],
-  "name": "NavigationBar / Search / LeftIcon&RightIcon",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "NavigationBar / Search / LeftIcon&RightIcon / Normal",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

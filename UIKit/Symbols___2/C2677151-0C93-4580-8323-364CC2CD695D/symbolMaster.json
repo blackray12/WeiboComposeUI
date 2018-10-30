@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 222,
+  "changeIdentifier": 516,
   "do_objectID": "C2677151-0C93-4580-8323-364CC2CD695D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +27,11 @@
     "do_objectID": "D8A135D3-FC2E-45C9-A80F-9053D7C3759D",
     "height": 88,
     "width": 375,
-    "x": 3224,
-    "y": 1989
+    "x": 1363,
+    "y": 516
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "99756FD8-3615-4284-BF77-64DC267B21E1"
+      "class": "symbolInstance",
+      "id": "B21ECEEE-9254-40F7-8F05-8163664D6B05"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72F93429-5205-40E6-8DB1-07FE9CC215A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA6A76EF-9FC4-4B56-94B9-B6BAFB9407A6"
     }
   ],
   "name": "NavigationBar / Compose / Subtitle / Disable / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

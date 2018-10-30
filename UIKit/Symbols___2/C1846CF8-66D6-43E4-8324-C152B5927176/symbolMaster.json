@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 421,
+  "changeIdentifier": 958,
   "do_objectID": "C1846CF8-66D6-43E4-8324-C152B5927176",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "height": 64,
     "width": 375,
     "x": -426,
-    "y": 1994
+    "y": 516
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +37,7 @@
     "base": 0,
     "do_objectID": "130CFB56-50A4-43E9-8C2C-74667E137110",
     "guides": [
+      0
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -48,32 +49,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "F8E0FF75-9820-4A8E-8635-087B10784C7A"
     },
     {
-      "class": "group",
-      "id": "CE5CA8BE-1425-4E16-AC80-282B2D1A2A12"
-    },
-    {
-      "class": "text",
-      "id": "3CFEAFAB-24A2-4490-B425-88F5C052397D"
-    },
-    {
-      "class": "group",
-      "id": "6A63DE53-EA37-4154-8420-A209EBDB07E3"
+      "class": "symbolInstance",
+      "id": "0A219714-F9F7-4516-91EC-AD14E5FF1E04"
     },
     {
       "class": "symbolInstance",
       "id": "A24680BD-D98F-455B-BF59-0E30E30E1F96"
     }
   ],
-  "name": "NavigationBar / LeftBack&RightIcon / White",
+  "name": "NavigationBar / LeftBack&RightIcon / White / Normal",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

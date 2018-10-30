@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 150,
+  "changeIdentifier": 448,
   "do_objectID": "44BC6A74-FB2D-4C39-A645-F1A0D8980C74",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "CE981207-5783-4085-99E6-6DC2AD6F22CE",
     "height": 88,
     "width": 375,
-    "x": 4174,
-    "y": 1851
+    "x": 1363,
+    "y": 1620
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "D63C4C8C-6A39-4262-95B7-ED1DD1DECFF9"
+      "class": "symbolInstance",
+      "id": "18F26ACA-8CD9-4978-B448-ED8F20881F93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D622C98-853B-44C1-AE3D-A0EE3D471346"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA62CA24-0658-4E1E-A84D-99526F582F56"
     }
   ],
   "name": "NavigationBar / Switchtab / Two / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

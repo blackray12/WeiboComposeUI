@@ -3,13 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "9659998E-F750-472B-9369-0665D42A0FE8",
-    "green": 1,
-    "red": 1
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 273,
+  "changeIdentifier": 543,
   "do_objectID": "20B4F5B8-1311-44C1-B60C-23F5D773A2DE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +26,10 @@
     "do_objectID": "8EA48D37-C1D5-4DE0-97BE-ACE5D75AF7CA",
     "height": 88,
     "width": 375,
-    "x": 2749,
-    "y": 1989
+    "x": -1,
+    "y": 654
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,7 +38,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -48,16 +47,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "D21682E3-C530-4E32-8FE0-13AD7CC298CD"
+      "class": "symbolInstance",
+      "id": "F504B8BC-1E6D-4BB9-BDAB-0219089E1427"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BCECB74-07F8-42EC-A93A-6E1960FF00D0"
     }
   ],
   "name": "NavigationBar / LeftBack&RightIcon / Transparent / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

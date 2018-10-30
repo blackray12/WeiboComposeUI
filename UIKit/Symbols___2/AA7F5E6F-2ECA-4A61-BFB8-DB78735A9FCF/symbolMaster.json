@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 146,
+  "changeIdentifier": 400,
   "do_objectID": "AA7F5E6F-2ECA-4A61-BFB8-DB78735A9FCF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "130DB75F-4527-40F6-A8E8-681DB2F9A042",
     "height": 88,
     "width": 375,
-    "x": 3699,
-    "y": 1851
+    "x": 1363,
+    "y": 1068
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FDF9F2F3-E5DF-4F2D-B32E-D9B8D861132F"
+      "class": "symbolInstance",
+      "id": "37A9BCD2-EFD0-43C9-9D98-2406D2AC5474"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C86AC64-420D-4191-A18D-61C6F242D57D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDCD99BC-5E76-4939-B787-63C9B76E1C1B"
     }
   ],
   "name": "NavigationBar / Search / Default / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

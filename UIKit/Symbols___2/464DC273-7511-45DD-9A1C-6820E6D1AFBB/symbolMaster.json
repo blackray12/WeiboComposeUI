@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 323,
+  "changeIdentifier": 731,
   "do_objectID": "464DC273-7511-45DD-9A1C-6820E6D1AFBB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "6F58EC75-DCCD-406E-9006-69CB165BADF8",
     "height": 88,
     "width": 375,
-    "x": 2274,
-    "y": 2127
+    "x": -1,
+    "y": 792
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7A47838A-BC13-49C4-BA78-EFA111F6032B"
+      "class": "symbolInstance",
+      "id": "DC91CEC0-0B85-4F3C-AD29-7DA09C1531D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9278FBEE-FD95-43AF-ADC9-04814A58C340"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2BB1071-9513-4770-B526-10AB7B7D5C6B"
     }
   ],
   "name": "NavigationBar / LeftText&RightIcon / White / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

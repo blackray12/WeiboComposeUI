@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 224,
+  "changeIdentifier": 484,
   "do_objectID": "A349306D-F909-4722-8AAE-C199B2BF662F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "AB781114-DB23-4258-BE7A-EC2881DB1A61",
     "height": 88,
     "width": 375,
-    "x": 3224,
-    "y": 2403
+    "x": 1363,
+    "y": 930
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C4A3F9AB-5491-4DF7-802F-5F41B082B3B8"
+      "class": "symbolInstance",
+      "id": "31FDA8A7-5E4B-4C11-A390-0EA0F0442C0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCED4A42-971F-4C15-B506-BC7E475BF02C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFFDA646-63F4-4B64-A2DE-8EAFF47E20F1"
     }
   ],
   "name": "NavigationBar / Compose / Slidershow / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

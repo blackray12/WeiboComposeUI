@@ -4,15 +4,13 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "1F3821A0-F851-4AD3-A67E-55F2F386D31F",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "do_objectID": "DA843C9A-C0F3-4372-947A-E8C2C3AFB1FD",
+  "do_objectID": "2CEA65A7-25F8-4109-B272-420EBC6CC30B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "20098137-5CD8-4615-84DD-A3F6213D48B2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -32,18 +30,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "71C632C1-DC74-4AC6-BFA5-EE31BA6C8807",
     "height": 667,
     "width": 375,
-    "x": 1261,
-    "y": -12
+    "x": 803,
+    "y": 1522
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7A194EE5-3D8A-4534-9A1C-A3C20C9028BB",
     "guides": [
     ]
   },
@@ -58,35 +54,31 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "797ADA01-0FA6-446F-A654-43C287AFBF69"
-    },
-    {
-      "class": "group",
-      "id": "362BB222-E3D7-4C22-B36F-73BD7BAE2689"
+      "class": "shapeGroup",
+      "id": "B21D0D9A-FA6E-43C6-8476-A24BD3122FF5"
     },
     {
       "class": "text",
-      "id": "2C46BF97-B245-4B9C-9C64-BD03E1E31F17"
+      "id": "3B3F0DF1-E4FF-47E9-9AA9-BFA5BACA41EA"
+    },
+    {
+      "class": "text",
+      "id": "A44D08EF-DBA6-499F-88C1-5861E131E6C5"
+    },
+    {
+      "class": "group",
+      "id": "CB87694F-3429-4975-B42D-2AD90F541D69"
     },
     {
       "class": "symbolInstance",
-      "id": "E06119A8-3417-401C-95F6-70C34BE164BD"
+      "id": "0EF88115-386E-4AA5-832E-A99F998CB01C"
     },
     {
-      "class": "shapeGroup",
-      "id": "59F8AF45-783E-4E03-BF6A-2DACCCC7C969"
-    },
-    {
-      "class": "text",
-      "id": "E46BE05C-B1DA-483A-8E4F-302366D143AF"
-    },
-    {
-      "class": "text",
-      "id": "3E862D56-7E5C-4126-9451-6D0D27A89246"
+      "class": "symbolInstance",
+      "id": "D8928B76-C3F7-4983-9A2D-E63623955930"
     }
   ],
-  "name": "付费",
+  "name": "免费 - 弱化头图",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -105,13 +97,11 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "FCAC947B-B478-4EF9-B389-48A8B867208A",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
       "type": 0
     },
-    "do_objectID": "4A6CE2DA-4945-4B5F-8D3C-50F39EDB2D33",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -120,7 +110,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9FA545AB-694C-493E-85DF-F098BBCCFC6F",
     "guides": [
     ]
   }

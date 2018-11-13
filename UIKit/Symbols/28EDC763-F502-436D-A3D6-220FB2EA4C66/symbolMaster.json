@@ -10,6 +10,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 529,
+  "clippingMaskMode": 0,
   "do_objectID": "28EDC763-F502-436D-A3D6-220FB2EA4C66",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,6 +33,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,7 +53,7 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E3C1E238-7B3F-4363-805A-AB6A657A0C42"
     },
     {
@@ -75,6 +77,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 4.166666666666667,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "AACAAD74-6853-417C-9AC0-E7DA280DEC5D",

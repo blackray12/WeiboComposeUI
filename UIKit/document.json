@@ -33,6 +33,7 @@
         },
         "booleanOperation": 0,
         "changeIdentifier": 3,
+        "clippingMaskMode": 0,
         "do_objectID": "6D3A68D5-4EEE-49E5-B4F9-4E3EC30F8187",
         "exportOptions": {
           "_class": "exportOptions",
@@ -53,6 +54,7 @@
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
+        "hasClippingMask": false,
         "horizontalRulerData": {
           "_class": "rulerData",
           "base": 0,
@@ -71,10 +73,11 @@
         "layerListExpandedType": 0,
         "layers": [
           {
-            "_class": "shapeGroup",
-            "booleanOperation": 0,
+            "_class": "rectangle",
+            "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "6AB4D2FB-A2DE-4DA7-8734-382DA300B01A",
+            "edited": true,
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -84,6 +87,7 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
+            "fixedRadius": 0,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -92,99 +96,60 @@
               "x": 0,
               "y": 0
             },
-            "hasClickThrough": false,
             "hasClippingMask": false,
+            "hasConvertedToNewRoundCorners": true,
+            "isClosed": true,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "layers": [
-              {
-                "_class": "rectangle",
-                "booleanOperation": -1,
-                "do_objectID": "69DE4B51-6E0E-4C74-B0D6-D08BF463F3C3",
-                "edited": true,
-                "exportOptions": {
-                  "_class": "exportOptions",
-                  "exportFormats": [
-                  ],
-                  "includedLayerIds": [
-                  ],
-                  "layerOptions": 0,
-                  "shouldTrim": false
-                },
-                "fixedRadius": 0,
-                "frame": {
-                  "_class": "rect",
-                  "constrainProportions": false,
-                  "height": 64,
-                  "width": 375,
-                  "x": 0,
-                  "y": 0
-                },
-                "hasConvertedToNewRoundCorners": true,
-                "isClosed": true,
-                "isFixedToViewport": false,
-                "isFlippedHorizontal": false,
-                "isFlippedVertical": false,
-                "isLocked": false,
-                "isVisible": true,
-                "layerListExpandedType": 0,
-                "name": "Path",
-                "nameIsFixed": false,
-                "pointRadiusBehaviour": 0,
-                "points": [
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{0, 0}",
-                    "curveMode": 1,
-                    "curveTo": "{0, 0}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{0, 0}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{1, 0}",
-                    "curveMode": 1,
-                    "curveTo": "{1, 0}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{1, 0}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{1, 1}",
-                    "curveMode": 1,
-                    "curveTo": "{1, 1}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{1, 1}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{0, 1}",
-                    "curveMode": 1,
-                    "curveTo": "{0, 1}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{0, 1}"
-                  }
-                ],
-                "resizingConstraint": 63,
-                "resizingType": 0,
-                "rotation": 0,
-                "shouldBreakMaskChain": false
-              }
-            ],
             "name": "NavigationBar / Background / White",
             "nameIsFixed": true,
+            "pointRadiusBehaviour": 0,
+            "points": [
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{0, 0}",
+                "curveMode": 1,
+                "curveTo": "{0, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{1, 0}",
+                "curveMode": 1,
+                "curveTo": "{1, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{1, 1}",
+                "curveMode": 1,
+                "curveTo": "{1, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 1}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{0, 1}",
+                "curveMode": 1,
+                "curveTo": "{0, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 1}"
+              }
+            ],
             "resizingConstraint": 63,
             "resizingType": 0,
             "rotation": 0,
@@ -251,8 +216,7 @@
               ],
               "startMarkerType": 0,
               "windingRule": 1
-            },
-            "windingRule": 1
+            }
           }
         ],
         "name": "NavigationBar / Background / White",
@@ -270,6 +234,7 @@
             "isEnabled": false,
             "motionAngle": 0,
             "radius": 5,
+            "saturation": 1,
             "type": 0
           },
           "endMarkerType": 0,
@@ -297,6 +262,7 @@
         },
         "booleanOperation": 0,
         "changeIdentifier": 5,
+        "clippingMaskMode": 0,
         "do_objectID": "6D3A68D5-4EEE-49E5-B4F9-4E3EC30F8187",
         "exportOptions": {
           "_class": "exportOptions",
@@ -317,6 +283,7 @@
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
+        "hasClippingMask": false,
         "horizontalRulerData": {
           "_class": "rulerData",
           "base": 0,
@@ -335,10 +302,11 @@
         "layerListExpandedType": 0,
         "layers": [
           {
-            "_class": "shapeGroup",
-            "booleanOperation": 0,
+            "_class": "rectangle",
+            "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "6AB4D2FB-A2DE-4DA7-8734-382DA300B01A",
+            "edited": true,
             "exportOptions": {
               "_class": "exportOptions",
               "exportFormats": [
@@ -348,6 +316,7 @@
               "layerOptions": 0,
               "shouldTrim": false
             },
+            "fixedRadius": 0,
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -356,99 +325,60 @@
               "x": 0,
               "y": 0
             },
-            "hasClickThrough": false,
             "hasClippingMask": false,
+            "hasConvertedToNewRoundCorners": true,
+            "isClosed": true,
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "layers": [
-              {
-                "_class": "rectangle",
-                "booleanOperation": -1,
-                "do_objectID": "69DE4B51-6E0E-4C74-B0D6-D08BF463F3C3",
-                "edited": true,
-                "exportOptions": {
-                  "_class": "exportOptions",
-                  "exportFormats": [
-                  ],
-                  "includedLayerIds": [
-                  ],
-                  "layerOptions": 0,
-                  "shouldTrim": false
-                },
-                "fixedRadius": 0,
-                "frame": {
-                  "_class": "rect",
-                  "constrainProportions": false,
-                  "height": 64,
-                  "width": 375,
-                  "x": 0,
-                  "y": 0
-                },
-                "hasConvertedToNewRoundCorners": true,
-                "isClosed": true,
-                "isFixedToViewport": false,
-                "isFlippedHorizontal": false,
-                "isFlippedVertical": false,
-                "isLocked": false,
-                "isVisible": true,
-                "layerListExpandedType": 0,
-                "name": "Path",
-                "nameIsFixed": false,
-                "pointRadiusBehaviour": 0,
-                "points": [
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{0, 0}",
-                    "curveMode": 1,
-                    "curveTo": "{0, 0}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{0, 0}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{1, 0}",
-                    "curveMode": 1,
-                    "curveTo": "{1, 0}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{1, 0}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{1, 1}",
-                    "curveMode": 1,
-                    "curveTo": "{1, 1}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{1, 1}"
-                  },
-                  {
-                    "_class": "curvePoint",
-                    "cornerRadius": 0,
-                    "curveFrom": "{0, 1}",
-                    "curveMode": 1,
-                    "curveTo": "{0, 1}",
-                    "hasCurveFrom": false,
-                    "hasCurveTo": false,
-                    "point": "{0, 1}"
-                  }
-                ],
-                "resizingConstraint": 63,
-                "resizingType": 0,
-                "rotation": 0,
-                "shouldBreakMaskChain": false
-              }
-            ],
             "name": "NavigationBar / Background / White",
             "nameIsFixed": true,
+            "pointRadiusBehaviour": 0,
+            "points": [
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{0, 0}",
+                "curveMode": 1,
+                "curveTo": "{0, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{1, 0}",
+                "curveMode": 1,
+                "curveTo": "{1, 0}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 0}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{1, 1}",
+                "curveMode": 1,
+                "curveTo": "{1, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{1, 1}"
+              },
+              {
+                "_class": "curvePoint",
+                "cornerRadius": 0,
+                "curveFrom": "{0, 1}",
+                "curveMode": 1,
+                "curveTo": "{0, 1}",
+                "hasCurveFrom": false,
+                "hasCurveTo": false,
+                "point": "{0, 1}"
+              }
+            ],
             "resizingConstraint": 63,
             "resizingType": 0,
             "rotation": 0,
@@ -515,8 +445,7 @@
               ],
               "startMarkerType": 0,
               "windingRule": 1
-            },
-            "windingRule": 1
+            }
           }
         ],
         "name": "NavigationBar / Background / White",
@@ -534,6 +463,7 @@
             "isEnabled": false,
             "motionAngle": 0,
             "radius": 5,
+            "saturation": 1,
             "type": 0
           },
           "endMarkerType": 0,
@@ -548,7 +478,8 @@
           "guides": [
           ]
         }
-      }
+      },
+      "symbolPrivate": false
     }
   ],
   "foreignTextStyles": [
@@ -559,9 +490,9 @@
     ]
   },
   "meta": {
-    "appVersion": "51.3",
-    "build": 57544,
-    "version": 105
+    "appVersion": "52.3",
+    "build": 67297,
+    "version": 112
   },
   "pages": [
     "LastedVision",

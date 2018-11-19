@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 722,
+  "changeIdentifier": 871,
+  "clippingMaskMode": 0,
   "do_objectID": "8DDD4595-7CB8-440F-ADEC-5E0FB374FE1B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +28,12 @@
     "do_objectID": "3F0008C6-E756-4EF8-9246-02622FD6F9E9",
     "height": 44,
     "width": 375,
-    "x": 848,
-    "y": 3892
+    "x": 2162,
+    "y": 3190
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -83,6 +85,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 5,
+      "saturation": 1,
       "type": 0
     },
     "do_objectID": "7DD522BA-E6F7-446E-9896-E7FB3C3B8CF9",

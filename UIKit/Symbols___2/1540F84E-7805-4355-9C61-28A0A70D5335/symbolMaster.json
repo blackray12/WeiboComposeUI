@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 282,
+  "changeIdentifier": 473,
+  "clippingMaskMode": 0,
   "do_objectID": "1540F84E-7805-4355-9C61-28A0A70D5335",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +28,12 @@
     "do_objectID": "CC0E9BDC-9EDC-4209-9F97-EFA2013C5945",
     "height": 78,
     "width": 375,
-    "x": 2274,
-    "y": 3798
+    "x": 2162,
+    "y": 3428
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,16 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "B3CB2648-787A-4ADF-9AD8-EC0F9BE275F1"
+      "class": "symbolInstance",
+      "id": "410C58F4-46F8-4503-914B-E453A8B0450B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4826506C-1E47-4232-902F-A972CA58EDFF"
     }
   ],
   "name": "ToolBar / Icon&Text / Three / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

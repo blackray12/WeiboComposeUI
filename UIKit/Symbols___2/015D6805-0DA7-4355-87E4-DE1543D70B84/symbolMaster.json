@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 458,
+  "changeIdentifier": 590,
+  "clippingMaskMode": 0,
   "do_objectID": "015D6805-0DA7-4355-87E4-DE1543D70B84",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,12 +27,13 @@
     "constrainProportions": false,
     "do_objectID": "7616B4D9-CBAB-463C-AD5C-B6F3047F2087",
     "height": 78,
-    "width": 376,
-    "x": 1798,
-    "y": 3926
+    "width": 375,
+    "x": 1737,
+    "y": 3684
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,16 +50,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "22B0948D-05AC-4E8C-938E-86A127245A41"
+      "class": "symbolInstance",
+      "id": "3839F403-D8E7-4C22-8CAC-BAB57C4802E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "128075E5-2EEE-44B9-A541-638E271ADB88"
     }
   ],
   "name": "ToolBar / Icon&Text / Two / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

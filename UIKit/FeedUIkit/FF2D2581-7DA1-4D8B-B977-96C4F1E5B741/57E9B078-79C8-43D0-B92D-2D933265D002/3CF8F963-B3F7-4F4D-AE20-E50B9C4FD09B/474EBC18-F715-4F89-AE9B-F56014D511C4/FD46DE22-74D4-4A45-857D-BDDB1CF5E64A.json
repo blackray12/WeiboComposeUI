@@ -1,6 +1,7 @@
 {
   "_class": "triangle",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FD46DE22-74D4-4A45-857D-BDDB1CF5E64A",
   "edited": true,
   "exportOptions": {
@@ -22,6 +23,7 @@
     "x": -7.105427357601005e-15,
     "y": 7.105427357601005e-15
   },
+  "hasClippingMask": false,
   "isClosed": true,
   "isEquilateral": false,
   "isFixedToViewport": false,
@@ -68,5 +70,66 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "39D12F85-6129-45CF-A8C2-BB2EC2F72BD3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "5851C09A-D587-474D-A149-C96BE9EB28CE",
+      "isEnabled": false,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 1
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1372549019607843,
+          "green": 0.2549019607843138,
+          "red": 0.8823529411764706
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 3
+      }
+    ],
+    "do_objectID": "7D976196-47A0-441F-9E81-A6F10D14352A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5116125036168981,
+          "green": 0.5846144767300194,
+          "red": 0.9739583333333334
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
 }

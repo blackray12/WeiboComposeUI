@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 343,
+  "changeIdentifier": 710,
+  "clippingMaskMode": 0,
   "do_objectID": "04CBA010-5060-4A5F-BC82-C9C18398BA33",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +28,12 @@
     "do_objectID": "C3DA776D-29EF-404E-B41A-FBC92A45270C",
     "height": 79,
     "width": 375,
-    "x": 1324,
-    "y": 3798
+    "x": 1737,
+    "y": 3427
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,13 +53,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "330D5E27-B4D4-4E42-87D3-C87402F391EB"
+      "class": "symbolInstance",
+      "id": "39C1A64C-A727-4689-8011-595DD2533E61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65F44A92-ECDF-4CFA-A57C-3EDE6EF71688"
     }
   ],
   "name": "TabBar / Feed / iPhone X",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

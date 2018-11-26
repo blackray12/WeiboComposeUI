@@ -1,8 +1,15 @@
 {
-  "_class": "group",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3EA3000-BBCC-455D-AC47-112D4F7B39AB",
+  "do_objectID": "A89D0E8C-3DF7-4238-B6DC-3B479F6F401C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,7 +19,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 3,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -24,44 +31,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 345,
-    "x": 15,
-    "y": 377
+    "height": 256,
+    "width": 994,
+    "x": 878,
+    "y": 2427
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E8D67EF4-2628-4D01-85D8-D6371BB9A917"
-    },
-    {
-      "class": "text",
-      "id": "86C54936-7718-416C-9E30-013F2AD83641"
-    },
-    {
       "class": "group",
-      "id": "780CFE04-B149-42B2-A022-722ADB6D5443"
+      "id": "65361186-DDAC-4C1A-8F9B-29A6D256EA3C"
     }
   ],
-  "name": "Group 2",
+  "name": "Artboard",
   "nameIsFixed": false,
-  "resizingConstraint": 18,
+  "resizesContent": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }

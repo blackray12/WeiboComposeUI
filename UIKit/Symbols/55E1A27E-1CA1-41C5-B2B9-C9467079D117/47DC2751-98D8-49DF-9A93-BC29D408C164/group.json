@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47DC2751-98D8-49DF-9A93-BC29D408C164",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 320,
+    "width": 270,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C99A483F-9057-47F7-8E6F-83871D95D648"
+    },
+    {
+      "class": "rectangle",
+      "id": "C6C693C7-81A4-4995-8665-12D917454071"
+    },
+    {
+      "class": "group",
+      "id": "579BAEAC-4AD7-44A7-B540-02C37E22BB74"
+    },
+    {
+      "class": "group",
+      "id": "85FA7CC0-66EF-4690-AA5E-306BF395A5D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE269A7E-BE97-4BE1-9AF9-D87FE1E420A0"
+    },
+    {
+      "class": "rectangle",
+      "id": "06CE5305-E2CE-4F96-BF81-6D460D2E69F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB68BE52-64AD-401E-8251-4DCC409BAEC9"
+    },
+    {
+      "class": "text",
+      "id": "980E9680-0DAB-4417-9C5A-2661F9D7B140"
+    },
+    {
+      "class": "text",
+      "id": "1F16F91F-BAC2-45EA-BA50-37CBCB16E2F3"
+    }
+  ],
+  "name": "Dialog / OperationGuide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 320,
+            "enabled": 1,
+            "modelID": "constraint_862b1d9b-f345-4509-a06f-d986d44bbfa9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 270
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8bc7611f-e1c7-459a-b883-2f7c8eba0e14",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "18BA4FD0-4265-41A4-AD8F-408C7F790178"
+    }
+  }
+}

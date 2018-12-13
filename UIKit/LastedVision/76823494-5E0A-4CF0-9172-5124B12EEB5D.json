@@ -3,11 +3,19 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "35B819BE-66B9-4926-82DF-89420514EC31",
+  "do_objectID": "76823494-5E0A-4CF0-9172-5124B12EEB5D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0AE87796-D857-4F2B-8643-46ACF3FF3AFD",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -18,16 +26,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "66F25AB4-23C7-47F3-8930-5202C8353E68",
-    "height": 895.0988654781199,
-    "width": 414,
-    "x": 301,
-    "y": -1241
+    "height": 640,
+    "width": 360,
+    "x": 1652,
+    "y": -329
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/b5f7c5d5b207999ba9b8314c42f913cdafee4d80.png",
+    "_ref": "images/116b1590a178f3e66673b02c600b4fbfd8330e7a.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -37,7 +44,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "97D1D800D783196C80775B0290EE0089",
+  "name": "E40A1365E2C37347042020E3B1285570",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,7 +52,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0C294E5F-141C-4D1F-8685-12CFC19E612F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

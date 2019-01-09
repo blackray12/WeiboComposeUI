@@ -1,11 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "03812A9D-63C0-45ED-A609-37EE2A01F7B2",
+  "do_objectID": "D4FE7BA6-C477-43AC-94FB-0A986D9B3E76",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "52DFA7B9-F07B-4F9A-8D44-24B9438594D5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3AA94A18-505E-4F6E-8D3F-7CC25F5C9A5A",
-    "height": 76,
-    "width": 176,
-    "x": 1225,
-    "y": 0
+    "height": 236,
+    "width": 375,
+    "x": 0,
+    "y": 74
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,23 +30,22 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "2DDB1907-02F0-47D3-9F22-BDE13B96459D"
+      "class": "symbolInstance",
+      "id": "C56FE8EC-D83E-454A-93FB-C93F1DAB52BC"
     },
     {
-      "class": "oval",
-      "id": "0D2E772F-B970-42FB-B077-1140224F510A"
+      "class": "symbolInstance",
+      "id": "43D34D8B-7917-4CC4-B1D8-073A3E497D46"
     }
   ],
-  "name": "链接色",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "04EF4DD1-1836-4A3A-9C64-345659BF6C27",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

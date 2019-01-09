@@ -3,13 +3,13 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9333333333333333,
+    "green": 0.9333333333333333,
+    "red": 0.9333333333333333
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "20ED8E4B-5C23-4628-8061-C1FFC2B67D16",
+  "do_objectID": "7E1932F4-4D5E-4A8B-80AA-A4B71E3DFE20",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 683,
+    "x": 208,
     "y": -36
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,10 +44,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "D4FE7BA6-C477-43AC-94FB-0A986D9B3E76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08DDF84B-063B-427B-9421-D8D690B93322"
+    }
   ],
-  "name": "iPhone 8 Copy",
+  "name": "iPhone 8",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,

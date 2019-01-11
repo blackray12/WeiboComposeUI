@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "D25C0687-B6F8-4816-9C29-F6BEFAAA152B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,6 +23,7 @@
     "y": 2
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,15 +32,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1AA40BD5-4B1D-4436-94DB-05401F4091EE"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "6DECDFAE-E573-4BD1-833C-2F40DA9083E5"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "649CFF43-ACE6-4018-BFD8-1A66D6B04145"
     }
   ],

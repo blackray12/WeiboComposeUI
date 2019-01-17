@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 76,
   "clippingMaskMode": 0,
-  "do_objectID": "2AEB8F80-95A7-4C86-853A-B8A0A6DB30C8",
+  "do_objectID": "E409E00C-0EE6-4C3E-83E7-B987634EC502",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 118,
     "width": 375,
-    "x": 683,
-    "y": -36
+    "x": 4649,
+    "y": 1554
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,19 +46,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "3722E49B-06A9-453B-BD92-98D0A7B9DC24"
+    },
+    {
+      "class": "group",
+      "id": "498D3944-496D-4FBA-BCD8-4A0C94BB6223"
+    },
+    {
+      "class": "text",
+      "id": "EDA6BCE0-8712-4367-8277-7301EC8E552A"
+    },
+    {
+      "class": "text",
+      "id": "ABD45FB3-9ADF-4B60-BA03-AE738436A182"
+    },
+    {
+      "class": "text",
+      "id": "DA3B0614-E357-444B-BF37-8DD24C363388"
+    }
   ],
-  "name": "iPhone 8 Copy",
+  "name": "FreshCard",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -68,6 +83,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "36C120A5-5606-4AEA-B7BA-2225FC8BCDAE",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

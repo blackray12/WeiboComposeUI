@@ -1,29 +1,19 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "E976613B-DD08-428F-942F-18B104B1AB6B",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": -1,
+  "booleanOperation": 0,
+  "changeIdentifier": 22,
   "clippingMaskMode": 0,
-  "do_objectID": "969F967E-E913-4BAA-8827-7C7199907AD2",
+  "do_objectID": "64CFF028-93C1-4041-8D55-AECF84897C48",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "464182C7-0EE9-4DFB-886A-18AE668CCE02",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,23 +23,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "008A1E6A-BA5B-40D2-8AE5-893F9174B82D",
-    "height": 667,
-    "width": 375,
-    "x": 2348,
-    "y": 812
+    "height": 30,
+    "width": 30,
+    "x": 8342,
+    "y": -96
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B70C0774-BDE1-4932-8FCB-45C1180A6150",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -60,31 +49,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "748876DA-68AF-4AE6-953C-42FFA9ED1635"
-    },
-    {
       "class": "rectangle",
-      "id": "A521A657-9FCD-4F7E-B875-65A12E2EC871"
-    },
-    {
-      "class": "bitmap",
-      "id": "6801B40F-B234-4FA6-ABA2-AA0E78B3305B"
+      "id": "63330A78-D00B-4415-95D4-F4C24BD01353"
     },
     {
       "class": "group",
-      "id": "33A776D5-93FA-4301-9EE2-4A3CF3EEA9BC"
+      "id": "5A3A8DD8-3C02-45EB-B1C9-B92ACF5E462F"
     }
   ],
-  "name": "二级评论",
+  "name": "Messages / Icon / Voice / Normal",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,16 +66,24 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "46499DBC-4ADB-4ADA-9FF1-DE21B840977A",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "AC2FE7DD-4BD9-4E68-9817-5A2BDA71C54B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8A30B2C2-5F7F-4CBA-894C-DC476387576E",
     "guides": [
     ]
   }

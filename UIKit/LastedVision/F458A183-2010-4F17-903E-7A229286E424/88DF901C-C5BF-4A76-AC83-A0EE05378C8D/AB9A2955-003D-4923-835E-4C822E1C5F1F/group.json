@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B85F54CC-7E2D-4820-B824-1E34BE58CF7A",
+  "do_objectID": "AB9A2955-003D-4923-835E-4C822E1C5F1F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BCE20381-A82E-4AA9-AD96-A1329FE336D8",
+    "do_objectID": "15180C35-E3C4-456F-B101-FA2F9F99E92F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C7D3DE5A-09A2-4B22-89B6-037F169103A8",
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "97F9F860-8010-430A-BAB6-C451B6CA43E1",
+    "height": 32,
+    "width": 285,
+    "x": 45,
+    "y": 6
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Background",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E2EFBF36-5F46-4C50-9590-D98B2D47B038"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F59901A-10C9-4BD2-A74A-FECDF9BC2325"
+    }
   ],
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4A57715E-36C2-44B8-86EC-34795B0084AC",
+    "do_objectID": "83FE826A-3318-403B-AB14-CF09AC82B43B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4D91DCA6-1D66-4FAE-A6C7-6458208B6103",
-  "verticalSpacing": 0
+  }
 }

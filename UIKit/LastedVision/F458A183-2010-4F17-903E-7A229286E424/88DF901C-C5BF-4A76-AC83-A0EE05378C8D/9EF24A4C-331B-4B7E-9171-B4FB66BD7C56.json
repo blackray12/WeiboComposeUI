@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "28FB6DCE-F619-421C-93C3-C359F1BF689D",
+  "do_objectID": "9EF24A4C-331B-4B7E-9171-B4FB66BD7C56",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5C3C9F71-B03E-4C37-A242-B0980FEE0A4D",
+    "do_objectID": "C2431107-88F5-45D2-8646-ABE4F1A06407",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "DF8BF48A-F5E5-47AD-B191-CDF11BCC5A18",
-    "height": 20,
-    "width": 32,
-    "x": 330,
-    "y": 12
+    "constrainProportions": true,
+    "do_objectID": "E7AC30FC-66C9-4E41-9A2D-D0E3B1BA5DE0",
+    "height": 30,
+    "width": 30,
+    "x": 8,
+    "y": 7
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,23 +30,33 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "SendButton",
+  "name": "Messages / Icon / Voice / Normal",
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "resizingConstraint": 12,
-  "resizingType": 0,
+  "resizingConstraint": 41,
+  "resizingType": 1,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2BBF034D-F261-404D-BEF0-E814BBE268D2",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E24772F2-6154-467C-BAC2-FA93536FB397",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "58F7D699-1C6B-4E7B-AB83-1F4C2CE7A6DF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "222CCC1F-D618-44DC-8B93-F1D1BB91E11F",
+  "symbolID": "AC2FE7DD-4BD9-4E68-9817-5A2BDA71C54B",
   "verticalSpacing": 0
 }

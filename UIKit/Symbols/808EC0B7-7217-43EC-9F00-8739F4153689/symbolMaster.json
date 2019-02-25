@@ -31,6 +31,9 @@
     "x": 7046,
     "y": 799
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,6 +66,13 @@
   ],
   "name": "Compose / HalfScreenCompose /  InputField / BlackText",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "224C6092-BB1E-45A0-B9A5-AC7D812CF427_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

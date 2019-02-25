@@ -31,6 +31,9 @@
     "x": 723,
     "y": 2604
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,6 +62,18 @@
   ],
   "name": "NavigationBar / ContentUnit / CenterUnit / DoubleTabSelector / NoIcon",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3D614B70-7380-4705-AB4B-D2E63EE057B5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "686775A7-CAA8-4102-AB3E-4254D7D21E38_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -30,6 +30,9 @@
     "x": -1,
     "y": 654
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -62,6 +65,18 @@
   ],
   "name": "NavigationBar / LeftBack&RightIcon / Transparent / iPhone X",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9BCECB74-07F8-42EC-A93A-6E1960FF00D0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F504B8BC-1E6D-4BB9-BDAB-0219089E1427_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

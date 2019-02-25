@@ -30,6 +30,9 @@
     "x": -426,
     "y": 1482
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -62,6 +65,18 @@
   ],
   "name": "NavigationBar /  LeftBack&RightText / Transparent / Normal",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8FFBE4B3-2B80-4618-A482-9F1C5767D8EC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27D9060F-E5E9-48D4-8D50-0F5F2979F16B_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

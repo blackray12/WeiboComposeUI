@@ -31,6 +31,9 @@
     "x": 7025,
     "y": 2284
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -67,6 +70,13 @@
   ],
   "name": "Compose / ComposeContent / Button / ChooseCover",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7B5C2187-453A-40CA-8AF9-F7B6705D6042_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

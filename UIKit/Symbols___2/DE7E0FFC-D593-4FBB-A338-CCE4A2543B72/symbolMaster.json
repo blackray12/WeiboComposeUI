@@ -30,6 +30,9 @@
     "x": -426,
     "y": 2510
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -66,6 +69,23 @@
   ],
   "name": "NavigationBar / ContentUnit /  LeftText&RightText / Black",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C4569CAB-97AB-40C7-9206-073422D3121F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5106BD8-3023-4796-875C-FCF25ED76437_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD1A406B-7C63-4321-A056-BD7DE2F58D7D_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

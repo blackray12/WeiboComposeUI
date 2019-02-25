@@ -31,6 +31,9 @@
     "x": 6931,
     "y": 9686
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,48 @@
   ],
   "name": "Timeline / Weibo / 414 / Small Page / AD 1+2 ",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1FF02C43-6BC6-4E65-BA74-233EB4BAEFE4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4DDE9B51-4E43-4FC4-ADC3-AC33F82F1D60_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AF5BDD4E-64BF-4ACC-951F-D971FE9718B3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F612CC7-697A-49BD-BBBB-3FF4C3B07953_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "39CA02BC-69F8-48C8-8B14-3998F0C86079_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "353E0CB9-8E97-4F95-9DCA-D95A22F862CF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50829F55-6BAC-4998-951A-1BE1F0D62833_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2D0C7275-56F2-4370-9785-B65CE4DB47E3_stringValue"
+    }
+  ],
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 414,

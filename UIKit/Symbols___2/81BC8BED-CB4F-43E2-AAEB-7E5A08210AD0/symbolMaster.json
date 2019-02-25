@@ -28,6 +28,9 @@
     "x": 424,
     "y": 226
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -67,6 +70,13 @@
   ],
   "name": "StatusBar / White / iPhone X Max",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CF29C023-33D7-4368-8181-FBF54CD46125_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

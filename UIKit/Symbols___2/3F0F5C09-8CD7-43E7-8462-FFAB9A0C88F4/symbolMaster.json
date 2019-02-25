@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1203,
+  "changeIdentifier": 1208,
   "clippingMaskMode": 0,
   "do_objectID": "3F0F5C09-8CD7-43E7-8462-FFAB9A0C88F4",
   "exportOptions": {
@@ -30,8 +30,11 @@
     "x": -1,
     "y": 226
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,6 +73,13 @@
   ],
   "name": "StatusBar / White / iPhone X",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "18173A66-EDF3-4A72-ADAE-E11404AC736A_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

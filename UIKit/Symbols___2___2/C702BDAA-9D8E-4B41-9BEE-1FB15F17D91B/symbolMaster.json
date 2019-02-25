@@ -31,6 +31,9 @@
     "x": 5940,
     "y": 2185
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,13 @@
   ],
   "name": "Timeline / BackgroundStatusbar / See more/ Loading",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "65DBA19C-8499-43B5-BA1F-8DE242948EA3_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

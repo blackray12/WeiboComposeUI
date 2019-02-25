@@ -28,6 +28,9 @@
     "x": 474,
     "y": 2698
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,6 +62,18 @@
   ],
   "name": "NavigationBar / ContentUnit / CenterUnit / DoubleLineText",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "659FE0EE-61DF-40D6-A0D0-2D4225AA1537_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6B4A185A-6F0B-4C56-9708-222861BDDD2D_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -31,6 +31,9 @@
     "x": 6752,
     "y": 2922
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -71,6 +74,28 @@
   ],
   "name": "Compose / Additional / Button / LocationButton / Activated",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E1E10FCB-CEB4-410F-BE97-7E28167EF862_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1AFC361F-39A8-4B54-AF5F-62532BA5FC53_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C0F1FBB-AB45-4F93-9A50-68476D3C6524_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2EE4E815-FCAE-41F6-B5D4-AB81667739BA_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

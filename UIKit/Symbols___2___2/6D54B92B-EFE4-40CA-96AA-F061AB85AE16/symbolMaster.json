@@ -31,6 +31,9 @@
     "x": 5970,
     "y": 5900
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -87,6 +90,33 @@
   ],
   "name": "Timeline / Weibo / 375 / Pic 1:1",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7E850C83-CE4F-465E-AA22-9169971B4D8F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE746633-BB6F-40BE-AB6B-DD8125C6DD50_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1FEF5384-5745-48E2-ACAF-D9FA7E033F81_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "06A9DE3A-C96F-4DD4-8BDD-6387D2E2FFB4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1866BC87-9BE9-4471-9708-951CF5CD383D_stringValue"
+    }
+  ],
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 375,

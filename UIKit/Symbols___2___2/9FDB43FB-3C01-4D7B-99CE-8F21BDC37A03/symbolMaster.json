@@ -31,6 +31,9 @@
     "x": 8356,
     "y": 9686
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -83,6 +86,33 @@
   ],
   "name": "Timeline / Weibo / 414 / Small Page / AD Pic 1+1",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EE223A37-6E1E-4F2F-9A52-12767E2C4D7D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "46EC74ED-4DC1-4B64-A69C-C866799F69E6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F010D98-FE1D-4B73-9ADD-F0E0F3ECE7A8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D242294A-AEE3-4701-9605-02DB6203DE66_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A09751F3-7765-4EBC-A1B8-D78935798959_symbolID"
+    }
+  ],
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 414,

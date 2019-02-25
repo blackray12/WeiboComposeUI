@@ -40,6 +40,9 @@
     "x": 5956,
     "y": 11909
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -68,6 +71,33 @@
   ],
   "name": "Timeline / Weibo / 414 / Goods / One",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D36602A9-DD2D-4C9F-98F0-23498B0EA2A6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F04E2B9-468D-48DE-AC3F-91BA2F57D368_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A30BEBA7-BABC-41BE-BA3F-C8D6C55DD887_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D2FBA67-F8B9-4237-B13A-87C833859B42_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50DF7F29-DF54-4FCA-9E02-FD1C2D7664CF_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

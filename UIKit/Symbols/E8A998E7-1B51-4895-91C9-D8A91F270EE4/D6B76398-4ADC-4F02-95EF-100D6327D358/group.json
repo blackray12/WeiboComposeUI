@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,12 +46,8 @@
       "id": "8E7ED32B-B0FB-4843-9D44-EC0A9A9A39A1"
     },
     {
-      "class": "text",
-      "id": "30440ADC-698B-47BE-A98D-21D863141705"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B8805A0C-9E82-4109-86ED-C04DD6AF3797"
+      "class": "group",
+      "id": "6C460F37-6255-45E7-8D30-4DBFD4C3D9AE"
     }
   ],
   "name": "Group",

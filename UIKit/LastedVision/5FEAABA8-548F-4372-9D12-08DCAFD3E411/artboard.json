@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,15 +31,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 1552,
+    "height": 736,
+    "width": 414,
+    "x": 882,
     "y": -459
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -58,44 +67,32 @@
       "id": "0C59F17C-72E7-476F-B4FC-491CD7D77B49"
     },
     {
-      "class": "group",
-      "id": "4EAA9F2B-8A6C-4405-AC16-42145879B922"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9BA4E247-B95B-4E61-8C49-AC0FC0E54171"
-    },
-    {
-      "class": "text",
-      "id": "63F9BA61-0A6B-4F10-80FB-EEA1E98643B8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C671FF59-99B2-485D-8A1E-E83CC38B629E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FDA19EE2-E8DE-44E9-87E5-0E48EA84D700"
-    },
-    {
-      "class": "rectangle",
-      "id": "74FD6E8D-0758-4120-8B3E-7BFA6AC787A0"
-    },
-    {
-      "class": "rectangle",
-      "id": "5BF11B86-1A60-41B9-8A9E-4E1D13517FBC"
-    },
-    {
       "class": "symbolInstance",
       "id": "7B90D73D-5FBC-4421-AB83-E8135EB4D437"
     },
     {
       "class": "symbolInstance",
       "id": "1BF09598-3304-43BF-B232-C9ED367379B4"
+    },
+    {
+      "class": "group",
+      "id": "EE27F447-9793-4E1A-B5AE-C3A66FA89311"
+    },
+    {
+      "class": "group",
+      "id": "4139301C-311D-411C-A3E1-D604B3A89B8C"
+    },
+    {
+      "class": "group",
+      "id": "E3CEA333-0889-48A3-8F34-2582BFB761C3"
+    },
+    {
+      "class": "group",
+      "id": "10511FF2-76E7-4D73-A5A4-3B6F6CFB08B8"
     }
   ],
-  "name": "iPhone 8 Copy 3",
-  "nameIsFixed": false,
+  "name": "带图",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,15 +31,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 602,
+    "height": 736,
+    "width": 414,
+    "x": 414,
     "y": -459
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -63,35 +72,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ED08EACD-DC48-4E84-BD6C-72C0B6F661EC"
-    },
-    {
-      "class": "text",
-      "id": "8021B4A0-A380-42A9-A653-FB52AACA3A40"
-    },
-    {
-      "class": "symbolInstance",
       "id": "D758A190-6DA4-4229-A9C6-F5335FB72DDD"
     },
     {
       "class": "group",
-      "id": "9210F902-5E58-4959-9D5D-B481DBC8709B"
+      "id": "CAAC988D-ADFA-45A7-8E9D-D877AC459932"
     },
     {
       "class": "symbolInstance",
       "id": "3E28ECF6-2DC5-43CB-BF99-92373F6F0C13"
     },
     {
-      "class": "symbolInstance",
-      "id": "E0C1294F-88FC-4C0B-A1C7-AD45CEB5A8AE"
-    },
-    {
       "class": "rectangle",
       "id": "94EC1EF4-A7A9-4A9B-B32E-8ED4AF0F527D"
-    },
-    {
-      "class": "rectangle",
-      "id": "8AE8CFB1-B730-4845-AD8A-8F4706F4851D"
     },
     {
       "class": "symbolInstance",
@@ -100,10 +93,18 @@
     {
       "class": "symbolInstance",
       "id": "6674D5F8-0FBE-49A5-A595-C44D536BD6D4"
+    },
+    {
+      "class": "group",
+      "id": "499E20BA-8D83-415A-A4E6-8D128B3B7589"
+    },
+    {
+      "class": "group",
+      "id": "3C2EFBB2-4390-4D29-BC98-A79F094BDA75"
     }
   ],
-  "name": "iPhone 8 Copy",
-  "nameIsFixed": false,
+  "name": "项目大于2",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

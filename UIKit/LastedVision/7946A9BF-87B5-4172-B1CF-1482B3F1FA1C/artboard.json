@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,15 +31,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 127,
+    "height": 736,
+    "width": 414,
+    "x": -54,
     "y": -459
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -54,20 +63,8 @@
       "id": "019276F6-3014-4CC1-8E82-057E31D4DED8"
     },
     {
-      "class": "symbolInstance",
-      "id": "44C57CFF-49D1-41B7-B062-AFCE09ECFB27"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "53A28425-DD5B-426A-8B03-97A9C03A58FE"
-    },
-    {
-      "class": "rectangle",
-      "id": "873794C6-9B4B-4F36-BE41-785DE4A079A2"
-    },
-    {
-      "class": "rectangle",
-      "id": "B7875D42-ADB6-40D3-A16C-EE24C5100326"
+      "class": "group",
+      "id": "E3C30F0C-AFCA-48A7-91E4-70601F53F7AA"
     },
     {
       "class": "symbolInstance",
@@ -78,16 +75,8 @@
       "id": "8DF6CF78-2684-400E-8FA5-D27832F13E3C"
     },
     {
-      "class": "symbolInstance",
-      "id": "B424E9A6-C6DE-4A2D-A26D-A57D46F498BE"
-    },
-    {
-      "class": "text",
-      "id": "7B3D8B02-3BB0-4515-8778-953AD08C792D"
-    },
-    {
       "class": "group",
-      "id": "FE0D786E-2391-4987-B3A4-1D67595BE1AB"
+      "id": "D1B4D53D-0A47-4F82-B4D1-6486A4EE9602"
     },
     {
       "class": "symbolInstance",
@@ -96,10 +85,18 @@
     {
       "class": "symbolInstance",
       "id": "70BCC8C8-881D-4142-B8FF-4C1E7C269C58"
+    },
+    {
+      "class": "group",
+      "id": "14BB5FE5-0F68-41CC-9CA3-708D6F8A9AEE"
+    },
+    {
+      "class": "group",
+      "id": "6C083551-4FB4-4767-A055-8504FC46B1C4"
     }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "默认样式",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

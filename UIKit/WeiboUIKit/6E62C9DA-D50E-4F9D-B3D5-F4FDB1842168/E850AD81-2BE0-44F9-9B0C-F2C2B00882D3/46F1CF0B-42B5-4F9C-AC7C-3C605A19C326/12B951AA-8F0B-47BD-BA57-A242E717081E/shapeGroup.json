@@ -1,0 +1,94 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "12B951AA-8F0B-47BD-BA57-A242E717081E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1102C8A4-3C20-41F7-9567-ED7222210C27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DCAA138-8FCF-4578-BBF5-E8F7CE6536AC",
+    "height": 43.53974999999947,
+    "width": 38.89425000000033,
+    "x": 12,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7D7B197D-0985-497B-BF3A-ABEA93A67130"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DB5AFF7C-A663-46A2-A8E5-B7AD4229A30C"
+    },
+    {
+      "class": "shapePath",
+      "id": "5276EE3F-B1FA-4D66-8CD8-3DACBCF9E97D"
+    },
+    {
+      "class": "shapePath",
+      "id": "5289F08E-92C1-4701-8F6F-3AC452351532"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5188F3EE-A7F5-4763-84AC-305FCDBD6F15",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F4359468-9AEB-46CC-9E97-DD9D7D033FB8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4705882352941176,
+          "green": 0.4705882352941176,
+          "red": 0.4705882352941176
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

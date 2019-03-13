@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -51,6 +55,9 @@
           "width": 375,
           "x": -426,
           "y": 1855
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -221,6 +228,8 @@
         ],
         "name": "NavigationBar / Background / White",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -281,6 +290,9 @@
           "x": -426,
           "y": 1855
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -450,6 +462,8 @@
         ],
         "name": "NavigationBar / Background / White",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -490,17 +504,18 @@
     ]
   },
   "meta": {
-    "appVersion": "52.4",
-    "build": 67378,
-    "version": 112
+    "appVersion": "53.2",
+    "build": 72643,
+    "version": 116
   },
   "pages": [
     "LastedVision",
+    "LastedVision",
+    "WeiboUIKit",
     "Symbols",
     "Symbols",
     "Symbols",
     "ComposeUIkit",
-    "FeedUIkit",
-    "WeiboUIKit"
+    "FeedUIkit"
   ]
 }

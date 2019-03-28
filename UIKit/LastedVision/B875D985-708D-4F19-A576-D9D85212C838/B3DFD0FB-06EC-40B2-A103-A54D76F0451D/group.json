@@ -1,11 +1,11 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "923D4E24-A9AF-4FCE-BF14-72C94E4CBAAC",
+  "do_objectID": "B3DFD0FB-06EC-40B2-A103-A54D76F0451D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1E7DB151-ADE0-47D9-B767-1F7156C5A9A8",
+    "do_objectID": "3676E26F-21C3-4686-9A85-C7A2B8F2C0FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5D4C5915-B863-4B62-8D23-456BEFB67E69",
+    "do_objectID": "5154D25A-FD9D-4A42-B7AD-BFA2D342C16F",
     "height": 22,
-    "width": 53,
-    "x": 0,
-    "y": 0
+    "width": 398,
+    "x": 8,
+    "y": 478
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "6450472E-FE40-49E8-A39C-24DBF42E9683"
+    "do_objectID": "0F53B90E-9502-4D3E-A921-47D1BFDB901B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,36 +36,26 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "F4EC0EA1-0137-42A1-925E-4825585020FB"
-    },
-    {
       "class": "text",
-      "id": "E51D418D-7387-4872-822B-DB06890979C5"
+      "id": "C2E6C1B2-5DDA-4D1B-905B-AEF10104A098"
     },
     {
-      "class": "symbolInstance",
-      "id": "C446E7E3-0373-4F1F-A3C4-5108F8598942"
+      "class": "group",
+      "id": "A087007F-C0C4-4D87-9E6E-B85F4F45B414"
     }
   ],
-  "name": "Common / Button / Super Small / White / Normal ",
-  "nameIsFixed": true,
-  "resizingConstraint": 33,
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3C42CB80-848F-48B2-A950-D7FFED796725",
+    "do_objectID": "6DB9601B-E1C6-47DA-8B68-EB2BB5CCBAAC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

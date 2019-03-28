@@ -9,39 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3882352941,
-            "green": 0.3882352941,
-            "red": 0.3882352941
+            "blue": 0.5764705882352941,
+            "green": 0.5764705882352941,
+            "red": 0.5764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 12
+              "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "alignment": 1,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           }
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "一周"
+    "string": "移除投票"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C298B0A7-84FC-4274-ADBE-0E4D3FFD04D9",
+  "do_objectID": "B93012C7-FCEA-4838-8C3B-9B97519521A9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ECA146A9-626C-42E4-BDD8-ED6224087C7C",
+    "do_objectID": "4E82373E-3959-4282-A344-1A4F55DDBF83",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,62 +51,61 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F54297BC-E541-47FC-913A-68B004F0D882",
-    "height": 16,
-    "width": 24,
-    "x": 22,
-    "y": 3
+    "do_objectID": "CF2A5DBC-6A82-4C56-9A22-BD5C9C4C4963",
+    "height": 14,
+    "width": 52,
+    "x": 346,
+    "y": 4
   },
-  "glyphBounds": "{{0, 2}, {23, 12}}",
+  "glyphBounds": "{{0, 1}, {52, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "lineSpacingBehaviour": 2,
-  "name": "Button",
+  "name": "移除投票",
   "nameIsFixed": false,
-  "resizingConstraint": 2,
-  "resizingType": 2,
+  "resizingConstraint": 36,
+  "resizingType": 1,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0831D3FE-9558-4D4A-8D98-A55ADA8BC11A",
+    "do_objectID": "8D3786B5-AF23-4DEC-9B55-81AE4E8B2061",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C2FA93C7-282C-4AA4-A2AA-3E15A1A2A221",
+      "do_objectID": "2418CE6C-0581-42F9-9EC7-2EB501F2BF0F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3882352941,
-          "green": 0.3882352941,
-          "red": 0.3882352941
+          "blue": 0.5764705882352941,
+          "green": 0.5764705882352941,
+          "red": 0.5764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 12
+            "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "alignment": 1,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

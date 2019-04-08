@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "20C9A8B2-A3EA-428F-B5D6-BEACAC13432E",
+  "do_objectID": "18A67189-FB22-44F5-85C6-C1DF106F46F1",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D8777201-0C6F-4782-9646-719A61625C96",
+    "do_objectID": "AA10E77E-7D52-4374-B625-02E406A31ABE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,14 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 7,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 95,
-    "width": 95,
-    "x": 6,
-    "y": 98
+    "constrainProportions": false,
+    "do_objectID": "BDF9E2FF-8658-4B10-9CDE-C42FAED052D7",
+    "height": 15,
+    "width": 25,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,14 +32,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Gif2",
+  "layerListExpandedType": 0,
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -77,7 +78,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -99,24 +100,19 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "ACDC1243-5118-42C5-A836-6DBFF2CBC019",
+    "do_objectID": "76625016-93AA-4FCE-84FD-5DD6C6C72F12",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.8784313725490196,
-          "red": 0.8784313725490196
+          "alpha": 0.8,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/b59334bc7e702cd3d1d3a2eb025645b87526a626.png",
-          "_ref_class": "MSImageData"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

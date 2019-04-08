@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BEC5A73D-EE86-4F77-B3C1-4B7D9729695A",
+  "do_objectID": "B9D15F4E-7658-44B1-BCCA-768D3712EA75",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5093A28B-2605-468E-869E-46DC25E56184",
+    "do_objectID": "659D64FC-AC75-4207-9C2D-CBE6BFBFAB8A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,13 +14,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 7,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 95,
-    "width": 95,
-    "x": 202,
+    "constrainProportions": false,
+    "do_objectID": "06F82DBC-D057-46B8-9A44-250E0E98F0B9",
+    "height": 15,
+    "width": 25,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -32,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Gif5",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 7,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -77,7 +78,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -99,24 +100,19 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "D262216C-308C-4E4C-A233-03F3791BDC6C",
+    "do_objectID": "41ED8A8D-942C-49E4-8B16-3F4FD9799B92",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.8784313725490196,
-          "red": 0.8784313725490196
+          "alpha": 0.8,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/b59334bc7e702cd3d1d3a2eb025645b87526a626.png",
-          "_ref_class": "MSImageData"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

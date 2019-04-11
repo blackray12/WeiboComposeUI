@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F14E8DCD-AD1B-468C-ABC9-E7BD54307392",
+  "do_objectID": "7D86FFF1-9A9B-40C2-ACE4-CD418AF84BB3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F01A3751-7645-4F98-8C25-C592B6425F51",
+    "do_objectID": "F0FE02F3-0B07-4332-A29A-036F14987D20",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A72F85C0-AEB0-46A3-BB55-873D4BD9D0AF",
-    "height": 60,
-    "width": 60,
-    "x": 423,
-    "y": 2357
+    "do_objectID": "BA093BBD-EFA8-4312-B169-7383BBA409C1",
+    "height": 44,
+    "width": 88,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,33 +30,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Compose / HalfScreenCompose / Icon / Add / Normal",
-  "nameIsFixed": false,
+  "name": "LeftUnit",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A82952E1-ECDE-41A3-B978-8F64ED58C499",
+      "overrideName": "99CD82A4-BBAC-462E-A4C2-2EA9201F8E5D_stringValue",
+      "value": "取消"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 3,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "E8C9E58B-37CF-41D5-843E-C97858124145",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 30,
-      "saturation": 1,
-      "type": 0
-    },
-    "do_objectID": "E6F67933-3705-495B-B682-DD1B58D3FE1F",
+    "do_objectID": "0B8470A1-DD94-49ED-B76A-F3D2249924C6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "36E1690C-8DF3-42BD-B4D2-CEC1CD8B393B",
+  "symbolID": "3B7CD906-1F08-4F3D-9AE5-1A64FDF9882B",
   "verticalSpacing": 0
 }

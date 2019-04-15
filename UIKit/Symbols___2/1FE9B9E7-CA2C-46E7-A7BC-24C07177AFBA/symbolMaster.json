@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 1000,
   "clippingMaskMode": 0,
-  "do_objectID": "DF7F8E2A-3F6A-4A05-BAC1-2C041312EDE6",
+  "do_objectID": "1FE9B9E7-CA2C-46E7-A7BC-24C07177AFBA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +23,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 173,
-    "y": -36
+    "height": 44,
+    "width": 114,
+    "x": 836,
+    "y": 2322
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,18 +49,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "983C9350-D6A0-4EC8-A044-96A65198711D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E21A546E-6D97-445F-BD14-3A54A6DFDA9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E408168-6954-4F1A-A97A-6CD1BD913287"
+    }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
+  "name": "NavigationBar / ContentUnit / RightUnit / Button / WithText",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "983C9350-D6A0-4EC8-A044-96A65198711D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E21A546E-6D97-445F-BD14-3A54A6DFDA9A_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,6 +90,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "1537B208-EA5D-4829-A9BF-F0E404686857",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

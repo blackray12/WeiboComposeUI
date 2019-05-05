@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 1,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FC99712-4BEB-4A5C-AA4B-CAECF00FBCA7",
+  "do_objectID": "8B1DB647-7870-438F-89ED-57C6F8AB48F1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8.666666666666666,
-    "width": 2.333333333333333,
-    "x": 4.166666666666666,
-    "y": -0.3333333333333333
+    "height": 8.333333333333332,
+    "width": 10.66666666666667,
+    "x": 1.066666666666606,
+    "y": 3.066666666666682
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,18 +30,46 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A4257C75-E809-4D11-8BD5-93F8C19BEE9D"
+      "class": "shapePath",
+      "id": "F6403642-B16A-4C50-A1BD-C469773A3594"
     },
     {
-      "class": "rectangle",
-      "id": "8795335B-00AE-4D94-9F49-C387974F7A3D"
+      "class": "shapePath",
+      "id": "8D1FBB91-F90E-4456-A74E-56BECB41894C"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B80441A-8320-4DB3-B162-E43E73F0C19D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A6A4669-89D9-495A-AB02-854999F8D7E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "7CB9B600-19F5-4699-9D11-C54DD9312451"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF7B669B-934C-4205-AB71-41FFE0855D95"
+    },
+    {
+      "class": "shapePath",
+      "id": "834D5AD5-7347-47E4-BC5B-BE6A970F737C"
+    },
+    {
+      "class": "shapePath",
+      "id": "DAF61551-AE44-4A09-BB17-C284E81CFB75"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2867C42-901C-437A-A74E-1CB7CCAC6601"
     }
   ],
-  "name": "形状结合",
+  "name": "形状",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,7 +97,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 0.5
       }
@@ -81,9 +109,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

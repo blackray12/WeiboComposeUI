@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F448C94D-5E27-4EDD-B478-413A3D4E06C6",
+  "do_objectID": "7CB9B600-19F5-4699-9D11-C54DD9312451",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +16,64 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8.333333333333332,
-    "width": 10.66666666666667,
-    "x": 1.066666666666606,
-    "y": 3.066666666666682
+    "height": 2.666666666666667,
+    "width": 1.333333333333333,
+    "x": 4.666666666666666,
+    "y": 0.3333333333333333
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "路径",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "shapeGroup",
-      "id": "70FDBBED-1A58-4BAE-BF5F-0CFC69B9F289"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 3.5527136788005009e-15}",
+      "curveMode": 1,
+      "curveTo": "{0, 3.5527136788005009e-15}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 3.5527136788005009e-15}"
     },
     {
-      "class": "shapeGroup",
-      "id": "7FC99712-4BEB-4A5C-AA4B-CAECF00FBCA7"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 3.5527136788005009e-15}",
+      "curveMode": 1,
+      "curveTo": "{1, 3.5527136788005009e-15}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 3.5527136788005009e-15}"
     },
     {
-      "class": "rectangle",
-      "id": "B43369FB-ABAD-4AA7-B11B-2B8E22872A94"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99999999999999922, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999922, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999922, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "name": "形状结合",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -100,6 +127,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }

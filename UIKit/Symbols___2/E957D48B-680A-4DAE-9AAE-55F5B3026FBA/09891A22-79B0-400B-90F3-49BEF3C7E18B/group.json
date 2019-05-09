@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4F363B9A-5EE0-4F57-A263-3DAFC47A7417",
+  "do_objectID": "09891A22-79B0-400B-90F3-49BEF3C7E18B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B8D6DF4-B147-42ED-B1ED-BFAF2F53713A",
+    "do_objectID": "BB6B9D38-FF29-4C56-8AF9-F6BD21729CA2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EBCB71E2-FEFE-404D-9357-1DB150C48D53",
+    "do_objectID": "992099F7-AF14-41F8-A0C1-6C2A2943A763",
     "height": 15.00000000000012,
-    "width": 15,
-    "x": 2.666666666666667,
-    "y": 2.333333333333333
+    "width": 15.33333333333333,
+    "x": 2.666666666666686,
+    "y": 2.333333333332121
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "10E5EA18-51AF-4C15-88FF-B5382312F5B3"
+    "do_objectID": "0C2959FA-3CA3-438D-A683-632F696564CB"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,19 +33,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "06DB6F5A-B586-40C3-BC52-B24F0B7218DE"
+      "class": "shapePath",
+      "id": "44A9F40B-C0A5-4967-A542-8C3BCC7D8CE5"
     },
     {
-      "class": "rectangle",
-      "id": "6A2804CF-15B8-435F-9F6C-096068A857F2"
+      "class": "shapePath",
+      "id": "E725C01E-36A2-4E08-8C6D-03B6986A1840"
     },
     {
-      "class": "rectangle",
-      "id": "DF4D93B8-6B8F-4AE9-B581-6410CDFA2815"
+      "class": "shapePath",
+      "id": "6ABA2CD5-1EBE-47B9-93A0-7436715DDCC7"
     }
   ],
   "name": "Group",
@@ -56,7 +56,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B64A77CC-47E4-43F0-8FF0-3A393A356041",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7ADF16CB-D32F-42B1-97E6-71DC2E7FA47F",
+      "opacity": 0.2
+    },
+    "do_objectID": "4FAF11E8-DC8F-47C1-ADF8-906C5F1D830B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

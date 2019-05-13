@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -24,6 +28,7 @@
       "libraryID": "DBF92144-9158-4C4A-8709-0C7E639147D2",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -51,6 +56,9 @@
           "width": 375,
           "x": -426,
           "y": 1855
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -221,6 +229,8 @@
         ],
         "name": "NavigationBar / Background / White",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -253,6 +263,7 @@
       "sourceLibraryName": "WeiboUIKit V2.3",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -280,6 +291,9 @@
           "width": 375,
           "x": -426,
           "y": 1855
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -450,6 +464,8 @@
         ],
         "name": "NavigationBar / Background / White",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -490,9 +506,9 @@
     ]
   },
   "meta": {
-    "appVersion": "52.5",
-    "build": 67469,
-    "version": 112
+    "appVersion": "54.1",
+    "build": 76490,
+    "version": 118
   },
   "pages": [
     "LastedVision",

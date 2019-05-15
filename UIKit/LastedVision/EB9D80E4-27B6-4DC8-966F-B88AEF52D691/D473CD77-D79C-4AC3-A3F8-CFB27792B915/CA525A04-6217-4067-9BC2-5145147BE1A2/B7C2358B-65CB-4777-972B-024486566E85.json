@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B5C4275B-0D6A-4C8E-A175-0B6A6B609D41",
+  "do_objectID": "B7C2358B-65CB-4777-972B-024486566E85",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "65E898B9-CFC0-4974-94F9-C9CE56D1AE2B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 16,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 307,
+    "height": 38,
+    "width": 112,
     "x": 0,
     "y": 0
   },
@@ -32,13 +31,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "InputArea",
-  "nameIsFixed": true,
-  "pointRadiusBehaviour": 0,
+  "name": "矩形",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 16,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 16,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 16,
+      "cornerRadius": 6,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 16,
+      "cornerRadius": 6,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -89,17 +88,16 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7647058823529411,
-          "green": 0.7647058823529411,
-          "red": 0.7647058823529411
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 0.5
+        "thickness": 1
       }
     ],
-    "do_objectID": "AD0CF47E-E3F3-44DB-85B5-5C4E1A331176",
     "endMarkerType": 0,
     "fills": [
       {
@@ -107,12 +105,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9411764705882353,
-          "green": 0.9411764705882353,
-          "red": 0.9411764705882353
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

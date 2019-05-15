@@ -9,19 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6055EAEE-795F-4D20-98FB-4B060FFE0B2A",
+  "do_objectID": "EB9D80E4-27B6-4DC8-966F-B88AEF52D691",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,8 +24,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 812,
-    "y": 2338
+    "x": 4741,
+    "y": 44
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -59,39 +50,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "99531B60-D545-4974-83D1-ABBD1DDB2F2A"
+    },
+    {
       "class": "group",
-      "id": "007711E9-7B8E-4C18-9B0F-2DD061A28A89"
-    },
-    {
-      "class": "rectangle",
-      "id": "38828940-C943-4307-9619-0A717C7185F5"
-    },
-    {
-      "class": "bitmap",
-      "id": "28213D80-CF51-4B7C-8F0A-85DDF70A1B7C"
-    },
-    {
-      "class": "rectangle",
-      "id": "D3F5BBA8-0955-4833-A6A7-85C7DADCF49F"
-    },
-    {
-      "class": "bitmap",
-      "id": "BF20390A-E779-40CD-A4CC-C54DEB3000E6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7CA33979-1EC9-412E-A71E-3285C280CFFE"
+      "id": "D473CD77-D79C-4AC3-A3F8-CFB27792B915"
     }
   ],
-  "name": "趣图 copy",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
+  "name": "画板",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

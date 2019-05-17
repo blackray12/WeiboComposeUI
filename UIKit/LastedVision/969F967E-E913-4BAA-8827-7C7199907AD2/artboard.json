@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -77,6 +77,10 @@
     {
       "class": "group",
       "id": "33A776D5-93FA-4301-9EE2-4A3CF3EEA9BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C08AF937-D1A4-4FCB-8754-A4384BA53482"
     }
   ],
   "name": "二级评论",

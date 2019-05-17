@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C75CBA3C-A43D-4D67-99D2-79696661DD93",
+  "do_objectID": "58000AC4-2554-4283-86FB-3096A772FA25",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4384B523-6F61-4F4D-BCBF-0B3FBFF2DCAE",
+    "do_objectID": "A242D4CA-EE99-4A02-B2C8-FB63DC9BD1B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "D777F9D8-B713-448A-98C4-1AEAF77B0E50",
-    "height": 30,
-    "width": 30,
-    "x": 0,
-    "y": 1
+    "constrainProportions": false,
+    "do_objectID": "42F975DA-635D-4856-8014-AB62CC0B3149",
+    "height": 24,
+    "width": 192,
+    "x": 12,
+    "y": 4
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,33 +30,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Messages / Icon / Add / Normal",
+  "name": "InputField",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5AA3000-F082-4871-81AD-BEC2D307A100_stringValue",
+      "value": "说点什么..."
+    }
   ],
-  "resizingConstraint": 44,
-  "resizingType": 1,
+  "resizingConstraint": 18,
+  "resizingType": 2,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "0C4E2F2B-A918-48C9-BC89-3728EC96CBD9",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 5,
-      "saturation": 1,
-      "type": 0
-    },
-    "do_objectID": "947B1E03-3944-4696-BB2F-1CD6125E7803",
+    "do_objectID": "A3BEA902-E5D7-4BB9-B93D-9EF1215A5C34",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6BB8D47-A1F1-4696-A477-46CF3D5E43E1",
+  "symbolID": "4CBB7E8E-D0FE-4AFA-B487-6AB8A361B125",
   "verticalSpacing": 0
 }

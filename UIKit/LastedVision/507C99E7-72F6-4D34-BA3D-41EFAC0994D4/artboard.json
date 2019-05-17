@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "7EF2F765-5DF2-4DA9-9D60-8B6322775AC3",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3B24E516-0C7B-41A4-9619-5D7CDD86F897",
+  "do_objectID": "507C99E7-72F6-4D34-BA3D-41EFAC0994D4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FDD64796-35AA-4A60-9364-DFBD4C4BBF99",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -31,13 +33,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8AF47642-68A7-40D2-ACBD-B578B600D6C6",
     "height": 667,
     "width": 375,
-    "x": 1875,
+    "x": 4741,
     "y": 44
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4C3CB980-DB48-4C22-8D24-C542FA962E93"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -45,6 +49,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "B72DA31B-C241-41CA-A0C3-4761B72A1A0C",
     "guides": [
     ]
   },
@@ -59,39 +64,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "bitmap",
+      "id": "C29EADD8-E1DC-4805-9123-7F0918032353"
+    },
+    {
       "class": "group",
-      "id": "533999F6-F1C7-4C60-9DFC-2058BECB74E0"
-    },
-    {
-      "class": "rectangle",
-      "id": "1FE10BFC-B26F-4CF0-ACAA-CE8BDC83A3E8"
-    },
-    {
-      "class": "bitmap",
-      "id": "F2995CAD-1C35-4C11-98DB-B4A25B79601F"
-    },
-    {
-      "class": "rectangle",
-      "id": "592755BA-56B8-42D6-AF3D-9E0E6B47058D"
-    },
-    {
-      "class": "bitmap",
-      "id": "AEA41F7F-9C7C-4D9D-8D0E-316393A2352D"
+      "id": "88585B9E-D0FC-4065-BE9E-C010E5762504"
     },
     {
       "class": "symbolInstance",
-      "id": "387047B9-3638-4F06-825B-C9C107101CFA"
+      "id": "2B12338F-32B5-4F1C-A49E-F43904129E2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED2D03A6-16E2-4AAE-8F4A-C2B1C98562B7"
     }
   ],
-  "name": "趣图",
+  "name": "消息箱A复制",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -99,6 +89,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "B228EEBA-9EF1-4D2C-91D1-A6D52BA61FD9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -107,6 +98,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "D7C6E8B5-EC40-4677-8624-1C90B65A0ABD",
     "guides": [
     ]
   }

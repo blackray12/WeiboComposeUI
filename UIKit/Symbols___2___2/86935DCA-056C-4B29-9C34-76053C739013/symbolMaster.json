@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11475,
+  "changeIdentifier": 11478,
   "clippingMaskMode": 0,
   "do_objectID": "86935DCA-056C-4B29-9C34-76053C739013",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "71ED03F4-C979-48B1-B002-DF2C4A18BDDE",
-    "height": 509,
+    "height": 736,
     "width": 414,
     "x": 7935,
     "y": 11909
@@ -37,7 +37,7 @@
     "do_objectID": "45E40DD9-9ABE-4BEE-A10B-8F38646A2046"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,6 +69,21 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B1D31679-40BF-46F9-81DE-2945DE8725BC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF07F11A-002E-4B0B-8ACC-6BA1F33EA266_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "807909EF-EAE0-4F11-8D74-FA5CB513DFE8_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85F466C3-B3CA-4EFD-A4D4-6D758F7073D3_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -128,10 +143,10 @@
   ],
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 414,
+    "height": 736,
     "name": "iPhone 8 Plus",
     "offersLandscapeVariant": 1,
-    "width": 736
+    "width": 414
   },
   "resizesContent": false,
   "resizingConstraint": 63,

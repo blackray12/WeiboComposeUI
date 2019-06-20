@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3232,
+  "changeIdentifier": 3256,
   "clippingMaskMode": 0,
   "do_objectID": "05C68A42-EB55-46F5-8356-FBFDA07C8A12",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +68,26 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "8C8F2E84-35FA-4D48-A896-481DB39F1322_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DEDFBB0-C312-4FF7-84FF-DFAEB5D25336_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AC8EDE43-F334-465B-8086-C0D6857A8A5B_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7F739F29-C0C3-4B9B-BDCC-3A3AA97333B2_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "66548C15-C886-4781-B86E-B1198D1F2001_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -227,10 +247,10 @@
   ],
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 375,
+    "height": 667,
     "name": "iPhone 8",
     "offersLandscapeVariant": 1,
-    "width": 667
+    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,

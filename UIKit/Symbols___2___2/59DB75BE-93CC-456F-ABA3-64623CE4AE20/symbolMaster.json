@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1680,
+  "changeIdentifier": 1681,
   "clippingMaskMode": 0,
   "do_objectID": "59DB75BE-93CC-456F-ABA3-64623CE4AE20",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +64,11 @@
   "name": "Timeline / Weibo / 375 / Pic Tiny",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "78B03402-40B9-43B1-9DBE-1D82439EB4CF_image"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "42C827B3-9B63-4BF7-A264-02EDE3B35197",
+  "do_objectID": "3C4BEBC8-64FC-4F8C-8421-BA119A97F7F4",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "11B27E2C-D5C0-4A0D-AECB-5863E652FDF2",
+    "do_objectID": "4E8488E9-89E0-44BB-B6A5-1CE630F719F1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,7 +18,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "do_objectID": "D92E6ADC-64F3-4473-8028-8D19FA9B37CE",
+    "height": 28,
     "width": 48,
     "x": 0,
     "y": 0
@@ -77,27 +78,28 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
+    "endMarkerType": 0,
+    "fills": [
       {
-        "_class": "border",
+        "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.4,
-          "blue": 0.8317389455782312,
-          "green": 0.8317389455782312,
-          "red": 0.8317389455782312
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.5098039215686274,
+          "red": 1
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0, 0}",
+          "from": "{1, 0.5}",
           "gradientType": 0,
           "stops": [
             {
@@ -105,9 +107,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.2019978165913225,
+                "green": 0.6963051904859365,
+                "red": 0.9388286564625851
               },
               "position": 0
             },
@@ -116,21 +118,22 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "blue": 0.1341194735272582,
+                "green": 0.473746431532423,
+                "red": 0.9201743197278912
               },
               "position": 1
             }
           ],
-          "to": "{1, 1}"
+          "to": "{0.014383128612716733, 0.5}"
         },
         "isEnabled": true,
-        "position": 1,
-        "thickness": 1
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
       }
     ],
-    "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
